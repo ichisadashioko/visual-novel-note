@@ -138,3 +138,45 @@ We are going to have a date with 灯華 to buy smartphone.
 
 ---
 
+灯華 is going to transfer.
+
+---
+
+We missed 灯華の誕生日 (22日2月). She still has cake.
+
+---
+
+振られた。灯華で。
+
+---
+
+In the After part, we met with several heroins that didn't appear in the School Arc.
+
+灯華 dissapeared behind the train. And we have 8 years time skip.
+
+奏汰 found 灯華's smartphone. He uses this phone to send LIME message to himself.
+
+He asked his past self to write something in the "猫の..." book. 灯華 wrote something.
+
+> 私はここにいる
+> ニャーニャーニャー
+
+奏汰 still keeps in touch with うぐいす先輩.
+
+> 猫っぽい子
+
+---
+
+It seems that there are suspicious photos in 灯華's smartphone. There is not any visual photo for us to look at. 奏汰 asked 佐倉雨音 to "decrypt" them. She suggested that he should not look into the data but still handed over for him anyway.
+
+---
+
+It seems that our trip with 灯華 to 京都 is going to be changed. We will find out where she was going alone. She had some killer photo in her smartphone.
+
+Love hotel だ
+
+してないかった
+
+---
+
+While high school 奏汰 is filrting with 灯華, adult 奏汰 will have a date with 岬栞菜.
