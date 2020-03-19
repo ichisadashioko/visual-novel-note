@@ -1,5 +1,7 @@
 # 月の彼方で会いましょう
 
+## 灯華 route
+
 The game is made with SiglusEngine. Because of that, I cannot play with LocalEmulator. I had to switch Windows's local and time zone in order to make the game to run.
 
 The protagonist's name is <ruby>奏汰<rt>かなた</rt></ruby> which has similar sound as the game title (<ruby>彼方<rt>かなた</rt></ruby>).
@@ -180,3 +182,25 @@ Love hotel だ
 ---
 
 While high school 奏汰 is filrting with 灯華, adult 奏汰 will have a date with 岬栞菜.
+
+---
+
+I have finished 灯華 route.
+
+灯華 wanted to kill her biological father "Kazama" だってか? We didn't know that person she wants to kill is her father. I thought that he kills her mother or made her mother commits suicide. Well, the truth is not far from that. But now we know that the person 灯華 wants to kill is her father.
+
+In the highschool "timeline", 奏汰 and 灯華 do it nearly every occasion (even outside).
+
+I put "timeline" in quote because there is a reason. Let's put it off here and tell more about it later.
+
+Oh. I didn't mention before that 岬栞菜 (漫画家さん) made a 漫画 based on the story 奏汰 told her about his 初恋 with 灯華.
+
+In highschool "timeline", 奏汰 and 灯華 kidnapped 灯華's father (with gun and car).
+
+岬栞菜 tried to hit on 奏汰. Sorry, I realised that we already on 灯華 route so we cannot branch off here.
+
+After the ending and conversation with 灯華, I think that 灯華 was the one who send message to 奏汰. There is no sending message through time here. 灯華 wanted to see if 奏汰 will love no matter she had an unfortunated life and may not bring him happiness. And the story about highschool "timeline" is created by 奏汰 and featured in the 漫画 as 奏汰 answer to 灯華.
+
+Maybe 灯華 took an photo of 奏汰 in secret back in the days he was still working at the cafe. She may even intrude his apartment to put her writing in the "猫の..." book. And 奏汰, as a novelist, made a story from his experience.
+
+One thing is still not clear for me about the flashback at the beginning when 灯華 points the gun at her head. I think may be 奏汰 did experience that flashback but the story about 奏汰 highschool before 8 years timeskip is from the 漫画. Maybe the real timeline is a mix of the highschool "timeline" and the "timeline" that we go through in 奏汰 highschool. However, the highschool "timeline" ending is created by 奏汰 as his resolution to 灯華.
