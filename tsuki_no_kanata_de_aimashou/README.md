@@ -134,7 +134,7 @@ I think we get into 灯華 route. She came over. Now, she is taking お風呂. S
 
 I think we have Summer Pockets cross-over. 猫と冒険
 
-And 灯華 is bad with 漢字.
+灯華 seems not like to read a lot of 漢字.
 
 We are going to have a date with 灯華 to buy smartphone.
 
