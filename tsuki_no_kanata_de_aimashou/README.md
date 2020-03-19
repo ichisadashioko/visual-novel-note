@@ -124,7 +124,7 @@ Our next encounter with 雨音 at the cafe in another rainy day.
 - タオルをとりにいく
 - これくらいすぐに乾くはず
 
---
+---
 
 I decide to force 奏汰 to complete the novel.
 
