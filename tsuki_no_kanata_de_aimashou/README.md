@@ -2,11 +2,9 @@
 
 ## 灯華 route
 
-The game is made with SiglusEngine. Because of that, I cannot play with LocalEmulator. I had to switch Windows's local and time zone in order to make the game to run.
-
 The protagonist's name is <ruby>奏汰<rt>かなた</rt></ruby> which has similar sound as the game title (<ruby>彼方<rt>かなた</rt></ruby>).
 
-The game starts with the main character as a adult. He recalls about his high school past. He also has some flashback about <ruby>灯華<rt>とうか</rt></ruby>'s speech and about she was pointing a pink gun at her hear. She was asking <ruby>奏汰<rt>かなた</rt></ruby> if she became the moon, would he chase after her.
+The game starts with the main character as a adult. He recalls about his high school past. He also has some flashback about <ruby>灯華<rt>とうか</rt></ruby>'s speech and about she was pointing a pink gun at her hear. She was asking <ruby>奏汰<rt>かなた</rt></ruby> if she comes to the other side of the moon, would he chase after her.
 
 After the flashback, we arrive at <ruby>奏汰<rt>かなた</rt></ruby>'s high school time.
 
@@ -204,3 +202,67 @@ After the ending and conversation with 灯華, I think that 灯華 was the one w
 Maybe 灯華 took an photo of 奏汰 in secret back in the days he was still working at the cafe. She may even intrude his apartment to put her writing in the "猫の..." book. And 奏汰, as a novelist, made a story from his experience.
 
 One thing is still not clear for me about the flashback at the beginning when 灯華 points the gun at her head. I think may be 奏汰 did experience that flashback but the story about 奏汰 highschool before 8 years timeskip is from the 漫画. Maybe the real timeline is a mix of the highschool "timeline" and the "timeline" that we go through in 奏汰 highschool. However, the highschool "timeline" ending is created by 奏汰 as his resolution to 灯華.
+
+# Second playthrough
+
+In the start, I pay attention to the background music and we have some heart-beat like sound. It makes me remember about 灯華 near dying moment in the last route.
+
+> <ruby>月<rt>つき</rt>が<rt></rt>冷<rt>つめ</rt>たく<rt></rt>冴<rt>さ</rt>えた<rt></rt>夜<rt>よる</rt>だった</ruby> - It was a night with clear sky and cold moon.
+
+> <ruby>もし<rt></rt>私<rt>わたし</rt>がお<rt></rt>月<rt>つき</rt>様<rt>さま</rt>の<rt></rt>彼方<rt>かなた</rt>にいっちゃったら・・・<rt></rt>追<rt>お</rt>いかけてきてくる？なーんて・・・</ruby>
+
+- I still not know much about what 灯華 means at the beginning. She asks 奏汰 to not forget about she was here, she was beside 奏汰.
+
+---
+
+We came back at the school scene.
+
+> <ruby>いつも、<rt></rt>学校<rt>がっこう</rt>の<rt></rt>風<rt>ふう</rt>景<rt>けい</rt>。<rt></rt>何<rt>なに</rt>も<rt></rt>変<rt>か</rt>わることのない、<rt></rt>昨日<rt>きの</rt>と<rt></rt>同<rt>おな</rt>じ<rt></rt>光<rt>こう</rt>景<rt>けい</rt>。どこがで<rt></rt>見<rt>み</rt>たような、<rt></rt>繰<rt>く</rt>り<rt></rt>返<rt>かえ</rt>される<rt></rt>日<rt>にち</rt>常<rt>じょう</rt></ruby>
+
+- He was talking about going to school everyday, seeing the same thing over and over again, nothing is changed.
+
+> しかしーー
+
+However,
+
+That is when 灯華 came to class (of course late).
+
+I do find it amusing when 灯華 came late to class but she also yawned. (・・・ふわぁ・・・)
+
+灯華 has a lot of rumor because of she doesn't participate in any club, leave school right after it ends. 夜遊び, 体を売る, and クラスメイトをいじめて自殺する.
+
+---
+
+奏汰 and his buddies (<ruby>田<rt>た</rt>島<rt>じま</rt>賢<rt>けん</rt>斗<rt>と</rt></ruby> and <ruby>環<rt>たまき</rt>円<rt>まどか</rt></ruby>) were hanging out on the roof-top to talk about rumor related to 灯華.
+
+Roof-top is a pretty common misconception thing. I remember that I came to my school roof-top twice. It was dirty. It is one of the worst place to hangout with others. It seems pretty dangerous when I come there alone because there were a lot of bad students in school. It was pretty scary when I think they would pick on me when I am alone.
+
+---
+
+奏汰 seems to reject the rumor about 灯華 because he had seen one other side of 灯華.
+
+I do find it strange for 灯華 who doesn't talk much in class. On her encounter with 奏汰, she speaks a lot and to be very open to 奏汰.
+
+> あ、えーと、<ruby>佐<rt>さ</rt>藤<rt>とう</rt></ruby>くん？
+
+> そっかそっか、<ruby>田<rt>た</rt>中<rt>なか</rt></ruby>くんだ！
+
+灯華 guessing 奏汰's name really brings me some smile. 🤭
+
+Is guessing the other person's name in 漢字 really that easy?
+
+Why most visual novels try to use uncommon 漢字 usage?
+
+<ruby>文<rt>ぶん</rt>藝<rt>げい</rt>部<rt>ぶ</rt></ruby> instead of <ruby>文<rt>ぶん</rt>芸<rt>げい</rt>部<rt>ぶ</rt></ruby>
+
+奏汰の創作 in highschool is <ruby>展<rt>てん</rt>望<rt>ぼう</rt>灯<rt>とう</rt>台<rt>だい</rt>の<rt></rt>少<rt>しょう</rt>女<rt>じょ</rt></ruby>
+
+奏汰 was only plan to let 日紫喜うぐいす先輩 read that novel but 灯華 stole his note and she was reading it while forcing 奏汰 to buy her a drink.
+
+> <ruby>祭<rt>まつ</rt>りの<rt></rt>夜<rt>よる</rt>、<rt></rt>展<rt>てん</rt>望<rt>ぼう</rt>灯<rt>とう</rt>台<rt>だい</rt>に<rt></rt>登<rt>のぼ</rt>る<rt></rt>少<rt>しょう</rt>女<rt>じょ</rt>。</ruby>
+
+---
+
+# Note
+
+- The game is made with SiglusEngine. Because of that, we cannot play with LocalEmulator. We will have to switch Windows's local, language, and time zone in order to make the game to run.
