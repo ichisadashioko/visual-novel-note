@@ -12,7 +12,7 @@ We had 2 choices before leaving our focus with 灯華. Probably rasing flag here
 
 ---
 
-The first heroin we will interact is <ruby>灯華<rt>とうか</rt></ruby>. She seems always come late to class and sleep in the class all the time.
+The first heroine we will interact is <ruby>灯華<rt>とうか</rt></ruby>. She seems always come late to class and sleep in the class all the time.
 
 One time, she was being chased by a teacher. She came to <ruby>奏汰<rt>かなた</rt></ruby>'s club room and asked him to hide her. Her speech during this encounter is very energetic. She gave me the impression of ギャル (gal) - a very beautiful person instead of a bitchy one. She read <ruby>奏汰<rt>かなた</rt></ruby>'s novel (note) which he hopelessly tried to get it back.
 
@@ -31,7 +31,7 @@ I probably skip <ruby>聖衣良<rt>せいら</rt></ruby> with second option. Now
 - <ruby>日紫喜<rt>ひしき</rt>うぐいす</ruby>
 - <ruby>佐倉<rt>さくら</rt>雨音<rt>れいん</rt></ruby>
 
-Let's choose our main heroin 灯華.
+Let's choose our main heroine 灯華.
 
 聖依良 asks 奏汰 about 将来. He answers he had 部活動 and バイト so he didn't think much about it. <ruby>聖依良<rt>せいら</rt></ruby> wants to be a fashion designer.
 
@@ -150,7 +150,7 @@ We missed 灯華の誕生日 (22日2月). She still has cake.
 
 ---
 
-In the After part, we met with several heroins that didn't appear in the School Arc.
+In the After part, we met with several heroines that didn't appear in the School Arc.
 
 灯華 dissapeared behind the train. And we have 8 years time skip.
 
@@ -260,6 +260,39 @@ Why most visual novels try to use uncommon 漢字 usage?
 奏汰 was only plan to let 日紫喜うぐいす先輩 read that novel but 灯華 stole his note and she was reading it while forcing 奏汰 to buy her a drink.
 
 > <ruby>祭<rt>まつ</rt>りの<rt></rt>夜<rt>よる</rt>、<rt></rt>展<rt>てん</rt>望<rt>ぼう</rt>灯<rt>とう</rt>台<rt>だい</rt>に<rt></rt>登<rt>のぼ</rt>る<rt></rt>少<rt>しょう</rt>女<rt>じょ</rt>。</ruby>
+
+---
+
+```
+  行くなと言う
+> 灯華の好きにさせる
+```
+
+I will try to not get into 灯華's route. 灯華 is the main heroine that makes the story center around her so I'm not sure if this choice will have any effect at all.
+
+Oh, I notice a poster on the background while turning 灯華 down.
+
+![](./images/schools_poster.png)
+
+---
+
+奏汰 seems to think about how 灯華 is doing out there and cannot concentrate on writing the novel.
+
+<ruby>円</rt>まどか</rt></ruby> came outside to eat some うどん. And he was caught by some teachers. He lied that he was waiting for 奏汰 to pick him up.
+
+---
+
+After rescusing <ruby>円<rt>まどか</rt></ruby>, 奏汰 searchs around for 灯華.
+
+灯華 comes into a hotel with a man seems to much older than her.
+
+A little while later, I think 灯華 was preparing to jumping out of the window.
+
+奏汰 calls out for her. 灯華 notices 奏汰 and falls.
+
+---
+
+Why 奏汰 doesn't clean 灯華's wound before apply the bandage. She would get an infection. 奏汰 may actually do clean 灯華's wound but the visual only show 奏汰 helping 灯華 apply ガーゼ.
 
 ---
 
