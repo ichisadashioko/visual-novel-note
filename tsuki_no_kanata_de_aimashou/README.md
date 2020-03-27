@@ -296,6 +296,43 @@ Why 奏汰 doesn't clean 灯華's wound before apply the bandage. She would get 
 
 ---
 
+During lunch break, 奏汰 was lurking around with his buddies and noticed <ruby>佐<rt>さ</rt>倉<rt>くら</rt>雨<rt>れ</rt>音<rt>いん</rt></ruby>. 奏汰 talked about he sit next to her and tried to talk to her but she didn't reply. I don't remember seeing <ruby>佐<rt>さ</rt>倉<rt>くら</rt>雨<rt>れ</rt>音<rt>いん</rt></ruby> in 奏汰's class. If it was a multiple classes lesson then it should be a all stand up class. For some reason, <ruby>佐<rt>さ</rt>倉<rt>くら</rt>雨<rt>れ</rt>音<rt>いん</rt></ruby> glares at 奏汰.
+
+---
+
+奏汰 works at ビブリオカフェ.
+
+We first meet 聖衣良 here. 聖衣良 is a sixth grader. I think she is trying to order the drink which is listed on the counter (カウンター) where she can't reach with her height.
+
+<ruby></rt>聖衣良<rt>せいら</rt></ruby> draws something (<ruby>夏<rt>なつ</rt>回<rt>かい</rt>けの<rt></rt>服<rt>ふく</rt></ruby>) after ordering her blend coffee.
+
+奏汰 will send 聖衣良 home because her mother is busy.
+
+---
+
+It was summer in the game. It is at the end of March at the time of writing this line. The weather is always annoying me whether it is summer or winter that is my current thought about weather.
+
+聖衣良 is around 11. She is at the age as my 妹 now.
+
+Oh, 聖衣良 is going to ask 奏汰 about who he wants to do 占い for.
+
+Let's see the "<ruby>別<rt>べつ</rt>の<rt></rt>人<rt>ひと</rt>を<rt></rt>占<rt>うらな</rt>ってもらう</rt></ruby>" option has <ruby>雨音<rt>れいん</rt></ruby> or not. Yes, it does.
+
+> <ruby>そう、<rt></rt>選<rt>せん</rt>択<rt>たく</rt>授<rt>じゅ</rt>業<rt>ぎょう</rt>の<rt></rt>情<rt>じょう</rt>報<rt>ほう</rt>Cで<rt></rt>隣<rt>となり</rt>の<rt></rt>席<rt>せき</rt>なんだ</ruby>
+
+So 奏汰 was just at the same classroom with <ruby>雨<rt>れ</rt>音<rt>いん</rt></ruby> once in a while.
+
+The dialog after this doesn't seem to change much with the last route with 灯華. <ruby></rt>聖衣良<rt>せいら</rt></ruby> asks 奏汰 about <ruby>将<rt>しょう</rt>来<rt>らい</rt></ruby>.
+
+# `ruby` cheatsheet
+
+- <ruby>奏<rt>かな</rt>汰<rt>た</rt></ruby>
+- <ruby>黒<rt>くろ</rt>野<rt>の</rt>奏<rt>かな</rt>汰<rt>た</rt></ruby>
+- <ruby>佐<rt>さ</rt>倉<rt>くら</rt>雨<rt>れ</rt>音<rt>いん</rt></ruby>
+- <ruby>倉橋<rt>くらはし</rt>聖衣良<rt>せいら</rt></ruby>
+
+I will make a `ruby` cheatsheet server.
+
 # Note
 
 - The game is made with SiglusEngine. Because of that, we cannot play with LocalEmulator. We will have to switch Windows's local, language, and time zone in order to make the game to run.
