@@ -304,7 +304,7 @@ During lunch break, 奏汰 was lurking around with his buddies and noticed <ruby
 
 We first meet 聖衣良 here. 聖衣良 is a sixth grader. I think she is trying to order the drink which is listed on the counter (カウンター) where she can't reach with her height.
 
-<ruby></rt>聖衣良<rt>せいら</rt></ruby> draws something (<ruby>夏<rt>なつ</rt>回<rt>かい</rt>けの<rt></rt>服<rt>ふく</rt></ruby>) after ordering her blend coffee.
+<ruby>聖衣良<rt>せいら</rt></ruby> draws something (<ruby>夏<rt>なつ</rt>回<rt>かい</rt>けの<rt></rt>服<rt>ふく</rt></ruby>) after ordering her blend coffee.
 
 奏汰 will send 聖衣良 home because her mother is busy.
 
@@ -322,7 +322,57 @@ Let's see the "<ruby>別<rt>べつ</rt>の<rt></rt>人<rt>ひと</rt>を<rt></rt
 
 So 奏汰 was just at the same classroom with <ruby>雨<rt>れ</rt>音<rt>いん</rt></ruby> once in a while.
 
-The dialog after this doesn't seem to change much with the last route with 灯華. <ruby></rt>聖衣良<rt>せいら</rt></ruby> asks 奏汰 about <ruby>将<rt>しょう</rt>来<rt>らい</rt></ruby>.
+The dialog after this doesn't seem to change much with the last route with 灯華. <ruby>聖衣良<rt>せいら</rt></ruby> asks 奏汰 about <ruby>将<rt>しょう</rt>来<rt>らい</rt></ruby>.
+
+---
+
+A few days later, 奏汰 can't think of new ideas for his novel. It was still early at night so 奏汰 decided to go outside while picking up his bike's key.
+
+I search for <ruby>江<rt>え</rt>ノ<rt>の</rt>島<rt>しま</rt></ruby> and it seems that the island also exists in real life.
+
+> 佐倉の肌って···
+
+---
+
+I think ポール·クレイ refers to Steve Jobs. エンデュミオン is iPhone5 equivalent.
+
+奏汰 is sleepy and <ruby>賢<rt>けん</rt>斗<rt>と</rt></ruby> is going to get him モンエレ. 灯華 steals it and runs away. 奏汰 chases after 灯華 to the third-year area. 灯華 asks 奏汰 to hangout with her in the weekend. 奏汰 plans to go 江ノ島 and 灯華 will tag along.
+
+奏汰 and 灯華 stay at 灯台 till the next morning to give うぐいす先輩 some birthday present.
+
+---
+
+After うぐいす先輩's 誕生日, 奏汰 met <ruby>雨<rt>れ</rt>音<rt>いん</rt></ruby> at ビブリオカフェ. It also rains that day. Why <ruby>聖衣良<rt>せいら</rt></ruby> didn't remember <ruby>雨<rt>れ</rt>音<rt>いん</rt></ruby> when 奏汰 mentioned it before?
+
+Some <ruby>中<rt>ちゅう</rt>二<rt>に</rt>病<rt>びょう</rt></ruby> jokes really does it job here.
+
+> <ruby>あ、<rt></rt>封神<rt>アンチンウル</rt>剣聖<rt>ソートマスター</rt></ruby>
+
+> えーダサいよ、超ダサい
+
+---
+
+> 想いを書く
+
+I'm not sure this choice will lead to <ruby>雨<rt>れ</rt>音<rt>いん</rt></ruby> route or not. It's more like うぐいす先輩 route. Let's continue a little bit longer.
+
+灯華 still comes in the clubroom. I feel like 奏汰 develops feeling for 灯華 in highschool is part of the story.
+
+奏汰 and 灯華 is going to hide in the clubroom. I'm not sure if choosing the option to not tell うぐいす先輩 about staying with 灯華 will change うぐいす先輩's answer about 奏汰.
+
+<ruby>副<rt>ふく</rt>部<rt>ぶ</rt>長<rt>ちょう</rt></ruby> doesn't have a name. かわいそう.
+
+It seems that うぐいす先輩 body is weak.
+
+うぐいす先輩 does answer a little bit different. She doesn't deny or answer the question.
+
+奏汰 still brings 灯華 home after she got wet trying to pick up the novel.
+
+I will rollback with the last choice.
+
+> <ruby>落<rt>お</rt>ち<rt></rt>着<rt>つ</rt>いて<rt></rt>考<rt>かんが</rt>え<rt></rt>直<rt>なお</rt>す</ruby>
+
+---
 
 # `ruby` cheatsheet
 
@@ -330,6 +380,7 @@ The dialog after this doesn't seem to change much with the last route with 灯�
 - <ruby>黒<rt>くろ</rt>野<rt>の</rt>奏<rt>かな</rt>汰<rt>た</rt></ruby>
 - <ruby>佐<rt>さ</rt>倉<rt>くら</rt>雨<rt>れ</rt>音<rt>いん</rt></ruby>
 - <ruby>倉橋<rt>くらはし</rt>聖衣良<rt>せいら</rt></ruby>
+- <ruby>江<rt>え</rt>ノ<rt>の</rt>島<rt>しま</rt></ruby>
 
 I will make a `ruby` cheatsheet server.
 
