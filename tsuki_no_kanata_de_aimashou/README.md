@@ -330,11 +330,11 @@ A few days later, 奏汰 can't think of new ideas for his novel. It was still ea
 
 I search for <ruby>江<rt>え</rt>ノ<rt>の</rt>島<rt>しま</rt></ruby> and it seems that the island also exists in real life.
 
-> 佐倉の肌って···
+> <ruby>佐倉<rt>さくら</rt>の<rt></rt>肌<rt>はだ</rt>って・・・</ruby>
 
 ---
 
-I think ポール·クレイ refers to Steve Jobs. エンデュミオン is iPhone5 equivalent.
+I think ポール・クレイ refers to Steve Jobs. エンデュミオン is iPhone5 equivalent.
 
 奏汰 is sleepy and <ruby>賢<rt>けん</rt>斗<rt>と</rt></ruby> is going to get him モンエレ. 灯華 steals it and runs away. 奏汰 chases after 灯華 to the third-year area. 灯華 asks 奏汰 to hangout with her in the weekend. 奏汰 plans to go 江ノ島 and 灯華 will tag along.
 
@@ -352,7 +352,7 @@ Some <ruby>中<rt>ちゅう</rt>二<rt>に</rt>病<rt>びょう</rt></ruby> joke
 
 ---
 
-> 想いを書く
+> <ruby>想<rt>おも</rt>いを<rt></rt>書<rt>か</rt>く</ruby>
 
 I'm not sure this choice will lead to <ruby>雨<rt>れ</rt>音<rt>いん</rt></ruby> route or not. It's more like うぐいす先輩 route. Let's continue a little bit longer.
 
@@ -371,6 +371,61 @@ It seems that うぐいす先輩 body is weak.
 I will rollback with the last choice.
 
 > <ruby>落<rt>お</rt>ち<rt></rt>着<rt>つ</rt>いて<rt></rt>考<rt>かんが</rt>え<rt></rt>直<rt>なお</rt>す</ruby>
+
+---
+
+奏汰 says that he hasn't sorted out his emotion for うぐいす先輩.
+
+奏汰 remembers about his first <ruby>小<rt>しょう</rt>説<rt>せつ</rt></ruby> (novel) - <ruby>封神剣聖<rt>アンチンウルソートマスター</rt>Saga</ruby>. I think we are in <ruby>雨<rt>れ</rt>音<rt>いん</rt></ruby> route now.
+
+奏汰 was about to find his first novel lying somewhere but he gave up because of not wanting to remember his <ruby>中<rt>ちゅう</rt>二<rt>に</rt>病<rt>びょう</rt></ruby> period.
+
+---
+
+奏汰 pulls out his smartphone to play game while thinking about how should he add the message to his <ruby>小<rt>しょう</rt>説<rt>せつ</rt></ruby>. The smartphone is about to run out of battery. 奏汰 annoys about he has to charge it twice a day.
+
+奏汰 researches about <ruby>エンデュミオン<rt>Endymion</rt></ruby> which is the smartphone model <ruby>賢<rt>けん</rt>斗<rt>と</rt></ruby> was excited about lately.
+
+奏汰 decides he will buy smartphone tomorrow. Now, 灯華's smartphone hasn't broken. 奏汰 will go buy smartphone alone.
+
+---
+
+It is raining.
+
+> <ruby>雨<rt>あめ</rt>、か・・・</ruby>
+
+<ruby>雨音<rt>れいん</rt></ruby> meets 奏汰 on his way to buy smartphone. Most of our encounters with <ruby>雨音<rt>れいん</rt></ruby> is always during rain. <ruby>雨音<rt>れいん</rt> name has the rain kanji (雨) in it.
+
+There is only one <ruby>傘<rt>かさ</rt></ruby> (umbrella) but two people need to go home. You know what is going to happen next.
+
+> <ruby>カナタの<rt></rt>右<rt>みぎ</rt>肩<rt>かた</rt>、<rt></rt>濡<rt>ぬ</rt>れてる</ruby>
+
+---
+
+The next school day, 奏汰 goes to the classroom full of computers and sees a half-eaten bread next to his seat. I am not where was 雨音 hiding. Was 雨音 under the table?
+
+We are in 雨音 route now. I think I choose the <ruby>中<rt>ちゅう</rt>二<rt>に</rt>病<rt>びょう</rt></ruby> choice. I think 奏汰 will ask 雨音 about what she was doing anyway.
+
+> ところで、さっきなにやってたんだ？
+
+> <ruby>真闇<rt>やみ</rt>の・・・<rt></rt>炎<rt>ほのお</rt>・・・アビス・・・ヴォイド</ruby>
+
+```
+  ところで、さっきなにやってたんだ？
+x 真闇やみの・・・炎ほのお・・・アビス・・・ヴォイド
+```
+
+> <ruby>こいつは、<rt></rt>遅<rt>おく</rt>れてきた<rt></rt>思春期<rt>ちゅうにびょう</rt>だ。</ruby>
+
+That was the first same line for both choices. I will continue the route with the second choice.
+
+---
+
+It seems that <ruby>ビブリオ<rt>Biblio</rt>カフェ<rt>cafe</rt></ruby> is lacking women-power. 奏汰 will ask 灯華 and うぐいす先輩 for helping with the cafe.
+
+Both 灯華 and うぐいす先輩 decline.
+
+奏汰, his buddies and 雨音 have a group project. 雨音 seems not going to work with others.
 
 ---
 
