@@ -14,7 +14,7 @@ We had 2 choices before leaving our focus with 灯華. Probably rasing flag here
 
 The first heroine we will interact is <ruby>灯華<rt>とうか</rt></ruby>. She seems always come late to class and sleep in the class all the time.
 
-One time, she was being chased by a teacher. She came to <ruby>奏汰<rt>かなた</rt></ruby>'s club room and asked him to hide her. Her speech during this encounter is very energetic. She gave me the impression of ギャル (gal) - a very beautiful person instead of a bitchy one. She read <ruby>奏汰<rt>かなた</rt></ruby>'s novel (note) which he hopelessly tried to get it back.
+Once, she was being chased by a teacher. She came to <ruby>奏汰<rt>かなた</rt></ruby>'s club room and asked him to hide her. Her speech during this encounter is very energetic. She gave me the impression of ギャル (gal) - a very beautiful person instead of a bitchy one. She read <ruby>奏汰<rt>かなた</rt></ruby>'s novel (note) which he hopelessly tried to get it back.
 
 ---
 
@@ -429,6 +429,83 @@ Both 灯華 and うぐいす先輩 decline.
 
 ---
 
+This is the first time 灯華 meets 雨音.
+
+雨音 and 灯華 both tease 奏汰 when seeing how 奏汰 acts around うぐいす先輩.
+
+奏汰 has dragged 雨音 around "forcefully" lately for the group exercise for class. 雨音 seems not too mind 奏汰 at all for dragging her around. I feel like my common sense is too anti-social compare to how 奏汰 and 雨音 act here.
+
+After done with shooting photos during lunch break, 雨音 is about to leave the group and having lunch alone as usual.
+
+> <ruby>もう<rt></rt>一回<rt>いっかい</rt>、<rt></rt>佐倉<rt>さくら</rt>を<rt></rt>誘<rt>さそ</rt>ってみよう</ruby>
+
+```
+  そうするか
+x もう一回、佐倉を誘ってみよう
+```
+
+---
+
+雨音 will be always in the computer classroom in lunch break.
+
+雨音 bites her lip while eating. 雨音 will leave to rinse her wound.
+
+```
+  チェンジしよ
+x やめておこう
+```
+
+The first choice is kinda boring.
+
+---
+
+雨音 comes to <ruby>ビブリオカフェ<rt>Biblio cafe</rt></ruby> at night to return <ruby>傘<rt>かさ</rt></ruby> and <ruby>タオル<rt>towel</rt>.
+
+> <ruby>これで、<rt></rt>明日<rt>あした</rt>からワタシとおまえは<rt></rt>敵<rt>てき</rt>同<rt>どう</rt>士<rt>し</rt>だ</ruby>
+
+奏汰 made coffe for 雨音. I think this will be one of those memories every couples will recall after their marriages.
+
+奏汰 also got 雨音's LIME ID.
+
+---
+
+While 奏汰 and his buddies stuggle are struggling to make the website as their group exercise, 雨音 is just eating. And when they are about to give up, 雨音 comes to rescue with her amazing keyboard skill which I have dreamed of for years.
+
+> <ruby>邪<rt>じゃ</rt>眼<rt>がん</rt>ってなんだ？</ruby>
+
+> <ruby>よろしく<rt></rt>頼<rt>たの</rt>む</ruby>
+
+```
+x 邪眼ってなんだ？
+  よろしく頼む
+```
+
+雨音 is really excited about <ruby>中<rt>ちゅう</rt>二<rt>に</rt>病<rt>びょう</rt></ruby> stuff.
+
+---
+
+The teacher seems to provoke 奏汰's group and 雨音 injects virus via USB to the teacher's computer. I think it is a kind of a screen locker. The teacher requires all students to show their stuff and 奏汰 takes the USB from 雨音's hand and gets caught for having USB.
+
+<ruby>山<rt>やま</rt>口<rt>ぐち</rt>先<rt>せん</rt>生<rt>せい</rt></ruby>, a famous sensei you can find at every school.
+
+---
+
+雨音's mother passed away when she was in 小学校. Grandma passed aways during 中学校. She has been living alone since then. I want to live alone too.
+
+雨音 agrees to help 奏汰 at <ruby>ビブリオカフェ<rt>Biblio cafe</rt></ruby>. I see this coming (*** after work at workplace).
+
+<ruby>藤<rt>ふじ</rt>沢<rt>さわ</rt>学園<rt>がくえん</rt></ruby> is the name of the school. I catch that during the interview of 雨音.
+
+---
+
+雨音 is about to skip her first day at work. Because of that, 奏汰 comes to her house.
+
+I am sure how does 雨音's house look like. However, her room has sliding door, 9 monitors PC setup (my dream), many types of smartphone/tablet (Ahh, I want to become fiction character).
+
+雨音 only has another outfit outside of school outfit in this game. I would prefer 雨音 to not wear that collar and occasionally pull off the hoodie's hat.
+
+雨音 is using her drone to deliver the drink. I see the authors really want to try out many unreasonable dreams here.
+
 # `ruby` cheatsheet
 
 - <ruby>奏<rt>かな</rt>汰<rt>た</rt></ruby>
@@ -436,6 +513,7 @@ Both 灯華 and うぐいす先輩 decline.
 - <ruby>佐<rt>さ</rt>倉<rt>くら</rt>雨<rt>れ</rt>音<rt>いん</rt></ruby>
 - <ruby>倉橋<rt>くらはし</rt>聖衣良<rt>せいら</rt></ruby>
 - <ruby>江<rt>え</rt>ノ<rt>の</rt>島<rt>しま</rt></ruby>
+- <ruby>中<rt>ちゅう</rt>二<rt>に</rt>病<rt>びょう</rt></ruby>
 
 I will make a `ruby` cheatsheet server.
 
