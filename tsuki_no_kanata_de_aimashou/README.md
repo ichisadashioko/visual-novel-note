@@ -506,6 +506,81 @@ I am sure how does 雨音's house look like. However, her room has sliding door,
 
 雨音 is using her drone to deliver the drink. I see the authors really want to try out many unreasonable dreams here.
 
+雨音 is surprisingly "lazy" compare to her 8 years later in 灯華 route.
+
+---
+
+The illustration of 雨音 looks very cute but I feel really annoying at how her <ruby>声<rt>せい</rt>優<rt>ゆう</rt></ruby> tries to fake eating sound. It sounds even more unrealistic.
+
+奏汰は雨音をいじめすぎ
+
+雨音 has improved quite a lot at working. I do feel like it is kind of rush.
+
+<ruby>賢斗<rt>けんと</rt></ruby> and <ruby>円<rt>まどか</rt></ruby> order something that I feel like the story back in track.
+
+> <ruby>美味<rt>おい</rt>しくなあれ</ruby>
+
+> もえもえきゅん
+
+> <ruby>もう<rt></rt>少<rt>すこ</rt>し<rt></rt>様子<rt>ようす</rt>を<rt></rt>見<rt>み</rt>てみよう</ruby>
+
+> <ruby>そろそろ<rt></rt>止<rt>と</rt>めに<rt></rt>入<rt>はい</rt>ろう</ruby>
+
+```
+  もう少し様子を見てみよう
+x そろそろ止めに入ろう
+```
+
+---
+
+> <ruby>やっぱり、<rt>教室<rt>きょうしつ</rt>まで<rt></rt>迎<rt>むか</rt>えに<rt></rt>行<rt>い</rt>こうかな？</ruby>
+
+> <ruby>断固<rt>だんこ</rt>、いつものところで<rt></rt>待<rt>ま</rt>ち<rt></rt>合<rt>あ</rt>わせで</ruby>
+
+```
+x やっぱり、教室まで迎えに行こうかな？
+  断固、いつものところで待ち合わせで
+```
+
+---
+
+> しつこい
+
+That line makes me remember しろは from Summer Pockets.
+
+> Steal
+
+There is a reference to <ruby>和真<rt>かずま</rt></ruby> in このすば.
+
+雨音 makes a fortune by making smartphone games.
+
+奏汰 was feeding 雨音 while she was playing game.
+
+Even though, 奏汰 thinks that 雨音 is <ruby>ダメ<rt></rt>人間<rt>にんげん</rt></ruby>, 雨音 will be fine as shown in 灯華 route. I had the same feeling when I finished Summer Pockets. Everyone will be fine even if we don't do anything to help them. Do we make ourselves more grand that we actually are?
+
+雨音 has a [GameCube](https://en.wikipedia.org/wiki/GameCube) and a [Virtual Boy](https://en.wikipedia.org/wiki/Virtual_Boy) in her room.
+
+雨音 is kind of give in with 奏汰's rapid and forceful attacks.
+
+---
+
+雨音 will meet 奏汰's parents for the first time.
+
+```
+  俺も好きだ
+x また早いんじゃないかな？
+```
+
+The second option is lame and pathetic but it may actually be what people say in real life.
+
+I think 雨音 got us here. It was not <ruby>告<rt>こく</rt>白<rt>はく</rt></ruby>.
+
+雨音 found <ruby>封神剣聖<rt>アンチンウルソートマスター</rt>Saga</ruby>.
+
+> TUEEE - 強くて
+
+奏汰 wants 雨音 to make friend with others. 雨音 doesn't seem to care for a very realistic reason (most people who will be asked to change will not care). 奏汰 asks her to try it out. 雨音 can easily act friendly with everyone else. 雨音 sometimes makes ドヤ顔 with 奏汰 while showing him how good she is at socializing with others.
+
 # `ruby` cheatsheet
 
 - <ruby>奏<rt>かな</rt>汰<rt>た</rt></ruby>
