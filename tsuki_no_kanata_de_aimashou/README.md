@@ -581,6 +581,20 @@ I think 雨音 got us here. It was not <ruby>告<rt>こく</rt>白<rt>はく</rt
 
 奏汰 wants 雨音 to make friend with others. 雨音 doesn't seem to care for a very realistic reason (most people who will be asked to change will not care). 奏汰 asks her to try it out. 雨音 can easily act friendly with everyone else. 雨音 sometimes makes ドヤ顔 with 奏汰 while showing him how good she is at socializing with others.
 
+---
+
+雨音's mask is kind of breaking when 雨音のクラスメイトB talks about ゲーム. 😅
+
+---
+
+> <ruby>雨音<rt>れいん</rt>: <rt></rt>遊<rt>あそ</rt>ぶお<rt></rt>金<rt>かね</rt>なら、まだいっぱいある</ruby>
+
+<ruby>奏汰<rt>かなた</rt></ruby> started to play game with <ruby>雨音<rt>れいん</rt></ruby> and the story shows us some of the common bait in P2W trick in game (e.g. "Starter pack" 4800円 (worth 12800円)).
+
+The sound track is not very suitable in some scenes.
+
+We have a cat AI with amazing natual-language-processing skill.
+
 # `ruby` cheatsheet
 
 - <ruby>奏<rt>かな</rt>汰<rt>た</rt></ruby>
