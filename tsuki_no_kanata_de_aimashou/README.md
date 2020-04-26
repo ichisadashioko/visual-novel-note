@@ -272,7 +272,7 @@ I will try to not get into 灯華's route. 灯華 is the main heroine that makes
 
 Oh, I notice a poster on the background while turning 灯華 down.
 
-![](./images/schools_poster.png)
+![school poster](https://i.imgur.com/tUnqSFv.png)
 
 ---
 
