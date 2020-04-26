@@ -595,6 +595,53 @@ The sound track is not very suitable in some scenes.
 
 We have a cat AI with amazing natual-language-processing skill.
 
+---
+
+<ruby>奏汰<rt>かなた</rt></ruby> spends summer time to play game with <ruby>雨音<rt>れいん</rt></ruby> at her house. <ruby>雨音<rt>れいん</rt></ruby> asks <ruby>奏汰<rt>れいん</rt></ruby> to give her a ring item in-game.
+
+<ruby>雨音<rt>れいん</rt></ruby> used to play solo but with <ruby>奏汰<rt>かなた</rt></ruby>, she makes some friends in-game.
+
+<ruby>雨音<rt>れいん</rt></ruby> starts to think about herself before meeting <ruby>奏汰<rt>かなた</rt></ruby> and the current her.
+
+<ruby>奏汰<rt>かなた</rt></rub> spends all his money on in-game currency.
+
+---
+
+<ruby>奏汰<rt>かなた</rt></ruby> realizes that he and <ruby>雨音<rt>れいん</rt></ruby> spend all the time to play game in the summer. <ruby>奏汰<rt>かなた</rt></ruby> invites <ruby>雨音</rt>れいん</rt></ruby> to watch firework (<ruby>花火<rt>はなび</rt></ruby>) at the end of summer. However, <ruby>雨音<rt>れいん</rt></ruby> didn't come.
+
+```
+綺麗なのに···
+···つまらない
+```
+
+<ruby>雨音<rt>れいん</rt></ruby> did get <ruby>浴衣<rt>ゆかた</rt></ruby> with intention of going but she didn't.
+
+![奏汰と雨音と花火](https://i.imgur.com/PxCpIiJ.png)
+
+---
+
+The summer break is about to end. <ruby>奏汰<rt>かなた</rt></ruby> and <ruby>雨音<rt>れいん</rt></ruby> will have to come back to school and not able to spend time together play game all days.
+
+> <ruby>···それは、<rt></rt>嫌<rt>いや</rt>。カナタともっと、<rt></rt>一緒<rt>いっしょ</rt>にいたい</ruby>
+
+> <ruby>···<rt></rt>月虹<rt>げっこう</rt></ruby>
+
+> <ruby>満月<rt>まんげつ</rt>にかかる<rt></rt>虹<rt>にじ</rt></ruby>
+
+<ruby>雨音<rt>れいん</rt></ruby>'s mother did come to [Yosemite Falls](https://en.wikipedia.org/wiki/Yosemite_Falls) and saw [<ruby>月虹<rt>げっこう</rt></ruby>](https://en.wikipedia.org/wiki/Moonbow).
+
+---
+
+<ruby>奏汰<rt>かなた</rt></ruby> invites <ruby>雨音<rt>れいん</rt></ruby> to go to the beach. However, <ruby>雨音</rt>れいん</ruby> doesn't have <ruby>水着<rt>みずぎ</rt></ruby> so she asks <ruby>聖衣良<rt>せいら</rt></ruby> to help her.
+
+> <ruby>でも<rt></rt>水着<rt>みずぎ</rt>選<rt>えら</rt>びの<rt></rt>相談<rt>そうだん</rt>に<rt></rt>小学生<rt>しょうがくせい</rt>って···<rt></rt>雨音<rt>れいん</rt>さん<rt></rt>友達<rt>ともだち</rt>···</ruby>
+
+![](https://i.imgur.com/yDREACU.png)
+
+![](https://i.imgur.com/u2DKLDk.png)
+
+This made me remember about みき in Summer Pockets Reflection Blue PV.
+
 # `ruby` cheatsheet
 
 - <ruby>奏<rt>かな</rt>汰<rt>た</rt></ruby>
