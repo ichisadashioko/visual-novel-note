@@ -203,7 +203,7 @@ Maybe 灯華 took an photo of 奏汰 in secret back in the days he was still wor
 
 One thing is still not clear for me about the flashback at the beginning when 灯華 points the gun at her head. I think may be 奏汰 did experience that flashback but the story about 奏汰 highschool before 8 years timeskip is from the 漫画. Maybe the real timeline is a mix of the highschool "timeline" and the "timeline" that we go through in 奏汰 highschool. However, the highschool "timeline" ending is created by 奏汰 as his resolution to 灯華.
 
-# Second playthrough
+# 雨音 route
 
 In the start, I pay attention to the background music and we have some heart-beat like sound. It makes me remember about 灯華 near dying moment in the last route.
 
@@ -641,6 +641,75 @@ The summer break is about to end. <ruby>奏汰<rt>かなた</rt></ruby> and <rub
 ![](https://i.imgur.com/u2DKLDk.png)
 
 This made me remember about みき in Summer Pockets Reflection Blue PV.
+
+---
+
+<ruby>雨音<rt>れいん</rt></ruby> and <ruby>灯華<rt>とうか</rt></ruby> both hate their fathers and have some kind of revenge plan. In <ruby>雨音<rt>れいん</rt></ruby> case, her father has already passed away.
+
+<ruby>奏汰<rt>かなた</rt></ruby> always helps with criminal activities of heroines.
+
+---
+
+About <ruby>雨音<rt>れいん</rt></ruby>'s criminal plan, they failed. <ruby>雨音<rt>れいん</rt></ruby>'s father predicted her plan before. It's like <ruby>雨音<rt>れいん</rt></ruby>'s parents did plan to leave <ruby>雨音<rt>れいん</rt></ruby> alone.
+
+After having been caught, <ruby>雨音<rt>れいん</rt></ruby> received a message from her father in a smartphone. The cat AI is deleted by her father as her mother's <ruby>願<rt>ねが</rt>い</ruby>.
+
+<ruby>雨音<rt>れいん</rt></ruby> name means `rainbow`.
+
+I feel that <ruby>雨音<rt>れいん</rt></ruby>'s mother is the bad one here - "forces" <ruby>雨音<rt>れいん</rt></ruby>'s father to complete their dream.
+
+I think <ruby>雨音<rt>れいん</rt></ruby> mother's name is アイナ.
+
+---
+
+<ruby>奏汰<rt>かなた</rt></ruby> and <ruby>雨音<rt>れいん</rt></ruby> have quite an active sexual relationship since high school. They went to the same college but not the same department. <ruby>奏汰<rt>かなた</rt></ruby> did write some novels till his forth year at college and then started to prepare for becoming a <ruby>会社員<rt>かいしゃいん</rt></ruby> but not as a writer.
+
+I think that <ruby>雨音<rt>れいん</rt></ruby> stays naked while going around in her house quite often. <ruby>奏汰<rt>かなた</rt></ruby> and <ruby>雨音<rt>れいん</rt></ruby> probably イチャイチャ quite a lot at <ruby>雨音<rt>れいん</rt></ruby>'s place.
+
+<ruby>奏汰<rt>かなた</rt></ruby> and <ruby>雨音<rt>れいん</rt> moved out and live together in <ruby>東京<rt>とうきょう</rt> for both their study and work.
+
+---
+
+<ruby>奏汰<rt>かなた</rt></ruby> is about to write a story about the smartphone Endymion.
+
+<ruby>奏汰<rt>かなた</rt></ruby> and <ruby>雨音<rt>れいん</rt></ruby> try to ask people for information about Endymion.
+
+There are many people were able to send message back in time with the smartphone Endymion.
+
+There is one boy whose father died from fire at workplace and left his mother, and his two sisters. The boy used the smartphone to send a message to his passed away father and he did reply back. The boy did tell his father about his death. His father did apologize for leaving the family. His father did tell the boy that even he knew there will be a fire (told by the boy from the future), he would rescue some people on that day.
+
+---
+
+I never know that female partner's fluid will kill off `Y` chromosome (`Y` sperm) made it's harder to bear <ruby>男<rt>おとこ</rt>の<rt></rt>子<rt>こ</rt></ruby>. Not sure if that is true or not.
+
+<ruby>雨音<rt>れいん</rt></ruby> researches quite a lot of things.
+
+---
+
+<ruby>奏汰<rt>かなた</rt></ruby> flys to the U.S. to research about Endymion. It has been 10 years since <ruby>奏汰<rt>かなた</rt></ruby> has met <ruby>雨音<rt>れいん</rt></ruby>. It was hint from the conversation of <ruby>奏汰<rt>かなた</rt></ruby> with ダーナー.
+
+I am not clear about what happned with the Endymion smartphone and ポール·グレイ's reputation. It seems that the Endymion smartphone was released to help the company (シトロン社 - Citron? Why can they just keep the English word representation? I feel really annoying when I come across these words.) without ポール·グレイ permission (he is death at that time).
+
+---
+
+What?
+
+<ruby>雨音<rt>れいん</rt></ruby> decided to help her mother. And we are currently at another timeline where <ruby>雨音<rt>れいん</rt></ruby>'s mother is still alive.
+It was tomorrow the day they would <ruby>結婚<rt>けっこん</rt>するなのに</ruby>.
+
+Oh. That timeline was witnessed by both <ruby>奏汰<rt>かなた</rt></ruby> and <ruby>雨音<rt>れいん</rt></ruby>.
+
+アイナ's <ruby>声優<rt>せいゆう</rt></ruby> is kind of off.
+
+> <ruby>雨音<rt>れいん</rt>: <rt></rt>今日<rt>きょう</rt>は、とっても<rt></rt>危<rt>あぶ</rt>ない<rt></rt>日<rt>ひ</rt>。<rt></rt>腹内<rt>なか</rt>に<rt></rt>出<rt>だ</rt>されたら、<rt></rt>妊娠<rt>にんしん</rt>する<rt></rt>可能性<rt>かのうせい</rt>大<rt>だい</rt></ruby>
+
+<ruby>奏汰<rt>かなた</rt></ruby> and <ruby>雨音<rt>れいん</rt></ruby> have their last night as <ruby>恋人<rt>こいびと</rt></ruby>.
+
+![雨音 and 奏汰 wedding](https://i.imgur.com/yGN8F5k.png)
+
+---
+
+This is the end of 雨音 route. It gave us a lot of information about the fiction side of this novel. About 雨音, I am not fond of her at the beginning of the game. As the story progress till her adulthood, she became a very lovable character. I like 雨音's clinginess, sweetness. 雨音 route made me laugh with jokes a lot from slice of life aspect during 奏汰 and 雨音 daily events.
 
 # `ruby` cheatsheet
 
