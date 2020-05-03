@@ -106,7 +106,7 @@ Let's continue with our first choice.
 
 ---
 
-We are also being interogated by 妹さん - 聖衣良.
+We are also being interrogated by 妹さん - 聖衣良.
 
 - 夜遊びしていたと認める
 - 聖衣良の教育上、否定する
@@ -132,7 +132,7 @@ I think we get into 灯華 route. She came over. Now, she is taking お風呂. S
 
 I think we have Summer Pockets cross-over. 猫と冒険
 
-灯華 seems not like to read a lot of 漢字.
+灯華 does't like to read a lot of 漢字.
 
 We are going to have a date with 灯華 to buy smartphone.
 
@@ -203,7 +203,7 @@ Maybe 灯華 took an photo of 奏汰 in secret back in the days he was still wor
 
 One thing is still not clear for me about the flashback at the beginning when 灯華 points the gun at her head. I think may be 奏汰 did experience that flashback but the story about 奏汰 highschool before 8 years timeskip is from the 漫画. Maybe the real timeline is a mix of the highschool "timeline" and the "timeline" that we go through in 奏汰 highschool. However, the highschool "timeline" ending is created by 奏汰 as his resolution to 灯華.
 
-# 雨音 route
+## 雨音 route
 
 In the start, I pay attention to the background music and we have some heart-beat like sound. It makes me remember about 灯華 near dying moment in the last route.
 
@@ -211,7 +211,7 @@ In the start, I pay attention to the background music and we have some heart-bea
 
 > <ruby>もし<rt></rt>私<rt>わたし</rt>がお<rt></rt>月<rt>つき</rt>様<rt>さま</rt>の<rt></rt>彼方<rt>かなた</rt>にいっちゃったら・・・<rt></rt>追<rt>お</rt>いかけてきてくる？なーんて・・・</ruby>
 
-- I still not know much about what 灯華 means at the beginning. She asks 奏汰 to not forget about she was here, she was beside 奏汰.
+- I still not know much about what 灯華 want to say at the beginning. She asks 奏汰 to not forget about she was here, she was beside 奏汰.
 
 ---
 
@@ -710,6 +710,119 @@ Oh. That timeline was witnessed by both <ruby>奏汰<rt>かなた</rt></ruby> an
 ---
 
 This is the end of 雨音 route. It gave us a lot of information about the fiction side of this novel. About 雨音, I am not fond of her at the beginning of the game. As the story progress till her adulthood, she became a very lovable character. I like 雨音's clinginess, sweetness. 雨音 route made me laugh with jokes a lot from slice of life aspect during 奏汰 and 雨音 daily events.
+
+## Third playthrough
+
+I still have no idea what 灯華 said means at the beginning of the game.
+
+---
+
+```
+x 行くなと言う
+  灯華の好きにさせる
+```
+
+灯華が綺麗だから。
+
+---
+
+I think if we choose the first option, that'll mean 奏汰 will end up with 聖衣良.
+
+```
+  俺のことを占ってもらう
+x 別の人を占ってもらう
+```
+
+---
+
+```
+  新谷灯華
+x 日紫喜うぐいす
+  佐倉雨音
+```
+
+I think I will try to get into うぐいす route this time.
+
+---
+
+```
+x なにか拭くものを···
+  佐倉の肌って···
+```
+
+---
+
+灯華 is the opposite of dense-type protagonist. She cares about every little romance related things.
+
+```
+x モールス信号を調べる
+  光で文字を書いてみる
+```
+
+The second option is just too lame.
+
+灯華 discovers the abandon military place at this moment.
+
+---
+
+I think we should let うぐいす know that 奏汰 sent モールス信号 but not with 灯華. Well, 奏汰 lies either ways but the second option doesn't make うぐいす get mad at 奏汰.
+
+```
+  灯華と一緒にやったと白状する
+x うぐいす先輩にはバルたくない
+```
+
+Well, that's not an option and I do feel kind of guilty for doing that.
+
+---
+
+```
+  夜遊びしていたと認める
+x 聖衣良の教育上、否定する
+```
+
+ごめんね。聖衣良
+
+![](https://i.imgur.com/J0laY9c.png)
+
+```
+  タオルをとりにいく
+x これくらいすぐに乾くはず
+```
+
+ごめん雨音。何十年と一緒にのこと忘れないよ
+
+> 雨音: ···ベーグル大佐
+
+I just notice the cat mascot here the first time.
+
+ちょっと待って。If 奏汰 is not going to hook up with 雨音 then 雨音's parents effort is kinda in vain, isn't it. Because they left 雨音 alone so that she can meet and fall in love with 奏汰.
+
+---
+
+奏汰は小説を書くのこと、うぐいす先輩めちゃくちゃ興味がある。
+
+```
+x 見かけによらず乙女だよな
+  やっばりなんでもない
+```
+
+きた!
+
+```
+x 想いを書く (うぐいす)
+  小説としての完成度を高める (灯華)
+  まったく別の展開を考える - not choosable
+  落ち着いて考え直す (雨音) - not choosable
+```
+
+I think that every heroines has 2 encounters that we need to choose the right option to unlock their routes here.
+
+![](https://i.imgur.com/nvD2eS3.png)
+
+---
+
+奏汰 was hurt and went around to find the school nurse. 奏汰 discovered that うぐいす also used some social network site on smartphone. She is kind of wanting to hide that fact.
 
 # `ruby` cheatsheet
 
