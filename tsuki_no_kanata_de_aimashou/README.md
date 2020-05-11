@@ -923,17 +923,21 @@ After they came back, 聖衣良 and <ruby>月ヶ洞<rt>つきがほら</rt>き�
 
 奏汰 was shocked after hearing those word. His vision became blurry.
 
-うぐいすの母 tells 奏汰 everything うぐいす's condition.
+うぐいすの母 tells 奏汰 everything about うぐいす's condition.
 
 ---
 
 奏汰 proposed to うぐいす.
+
+![](https://i.imgur.com/aqiRv0i.png)
 
 I think the definition of 普通 is blurry and twisted in うぐいす thinking.
 
 ---
 
 うぐいす passed away in the day that she finished her 小説.
+
+![](https://i.imgur.com/14hhTpS.png)
 
 奏汰 remembered that うぐいす used to write 日記 on wixi.
 
@@ -986,6 +990,8 @@ I not sure why did うぐいす leave 奏汰 in this timeline. How close did 奏
 うぐいす's disease has been treated. She just came back from another country. And 奏汰's tear is falling with knowing why.
 
 二人はそこで一緒に満月を見て
+
+![](https://i.imgur.com/tjLxJ8F.png)
 
 ---
 
