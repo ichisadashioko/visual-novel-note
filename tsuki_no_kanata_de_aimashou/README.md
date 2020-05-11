@@ -711,7 +711,7 @@ Oh. That timeline was witnessed by both <ruby>奏汰<rt>かなた</rt></ruby> an
 
 This is the end of 雨音 route. It gave us a lot of information about the fiction side of this novel. About 雨音, I am not fond of her at the beginning of the game. As the story progress till her adulthood, she became a very lovable character. I like 雨音's clinginess, sweetness. 雨音 route made me laugh with jokes a lot from slice of life aspect during 奏汰 and 雨音 daily events.
 
-## Third playthrough
+## うぐいす route
 
 I still have no idea what 灯華 said means at the beginning of the game.
 
@@ -823,6 +823,173 @@ I think that every heroines has 2 encounters that we need to choose the right op
 ---
 
 奏汰 was hurt and went around to find the school nurse. 奏汰 discovered that うぐいす also used some social network site on smartphone. She is kind of wanting to hide that fact.
+
+---
+
+奏汰 is still being caught by police but there is no dialog with the police this route. However, うぐいす sees 奏汰's bike and waits for him there.
+
+```
+x これではばっちりです
+  はい、まちがってます
+```
+
+うぐいす is quite dense.
+
+奏汰は金持ち? His motorbike from 雨音's route doesn't look cheap at all.
+
+This doesn't look good at all. うぐいす in 灯華's route seems to more
+...
+
+There is no ring bell with うぐいす event.
+
+灯華 seems to very caring and "knowledgeable".
+
+This looks pretty bad. うぐいす will go oversea after graduating. This is getting akward.
+
+---
+
+Why うぐいす also has colar?
+
+![](https://i.imgur.com/QXm4qQc.png)
+
+奏汰がカッコイイ
+
+![](https://i.imgur.com/VyCot49.png)
+
+うぐいす has [haemophilia](https://en.wikipedia.org/wiki/Haemophilia).
+
+![](https://i.imgur.com/WEa19nQ.png)
+
+That is a lot of CGs for a day.
+
+うぐいすは大胆
+
+うぐいす is getting annoying.
+
+---
+
+```
+  日紫喜さん
+  うぐいすさん
+x うぐいす
+```
+
+I am not a fan of さん suffix.
+
+奏汰 still refers うぐいす as "うぐいすさん"
+
+---
+
+Unlike with 灯華 and 雨音, 奏汰 and うぐいす have their first time at ホテル. I would love to have our first at our place.
+
+---
+
+うぐいす is not seeing 奏汰 for some reasons.
+
+文化祭か
+
+---
+
+賢斗 and 円 are very supportive in this route.
+
+ええ、うぐいす is not making sense at all.
+
+---
+
+奏汰 becomes novelist in this route. We have 6 years timeskip. BIBLIO CAFE is still being opened by 奏汰 and うぐいす. They help the owner to keep the cafe running.
+
+---
+
+I think 雨音 is the most developed character so far.
+
+---
+
+うぐいすの反応は可愛いですね
+
+- 奏汰 discovers that うぐいす starts to write 小説
+- うぐいす tries to not hear 奏汰's feedback
+
+---
+
+聖衣良 and <ruby>月ヶ洞<rt>つきがほら</rt>きらり</ruby> help 奏汰 and うぐいす manage the store so that they can go on a trip together.
+
+After they came back, 聖衣良 and <ruby>月ヶ洞<rt>つきがほら</rt>きらり</ruby> interrogated 奏汰 about if he has proposed or not.
+
+うぐいす collapsed at the store while 奏汰 was discussing about his work at the publishing company. 聖衣良 called 奏汰 and told him that.
+
+うぐいすの母 told 奏汰 that うぐいす didn't take the medicine for her blood disease for a while and she is reaching her limit. The medicine that 奏汰 saw うぐいす take everyday is for her liver not for her blood disease.
+
+> もう···長くはあり···ませ、ん···
+
+奏汰 was shocked after hearing those word. His vision became blurry.
+
+うぐいすの母 tells 奏汰 everything うぐいす's condition.
+
+---
+
+奏汰 proposed to うぐいす.
+
+I think the definition of 普通 is blurry and twisted in うぐいす thinking.
+
+---
+
+うぐいす passed away in the day that she finished her 小説.
+
+奏汰 remembered that うぐいす used to write 日記 on wixi.
+
+---
+
+Around a year later, 奏汰 discovers that the medicine that can cure うぐいす's disease. 奏汰 realized that if he had let go of うぐいす, she would be treated.
+
+奏汰 is getting depressed and became 引きこもり.
+
+聖衣良 often comes and checks on 奏汰 every now and then.
+
+One day, きらり came and helped to snap 奏汰 out. 奏汰 came back from hell 🎉
+
+---
+
+奏汰 came to high school and picked up some of うぐいす's book. 奏汰 found the Endymion smartphone there. 賢斗 helps to boot up the phone and there is a photo of 奏汰 and うぐいす as the background screen. This phone was belonged to 灯華. I hope there will a more detail explanation about 灯華 as the game progress. 灯華 route doesn't have much information.
+
+There is a video that 灯華 recorded. There is うぐいす in it.
+
+賢斗 tells the story about sending message to oneself in the past.
+
+奏汰 brough the phone home and send message to himself many times.
+
+> 後悔するぞ
+
+奏汰 continues spam himself many days later ... at many places.
+
+Someone replies back. It is 奏汰 from high school time.
+
+---
+
+The story continues with 奏汰 "manipulating" his past self with consideration about him as a teenager. The story is told in a quick flashback liked fashion.
+
+---
+
+奏汰 makes うぐいす hate him in the past.
+
+---
+
+満月 is coming. Did 奏汰 change the history?
+
+---
+
+奏汰 works at the publishing company. It seems that this is a different timeline.
+
+奏汰 has some memory of another timeline but he is not sure whose it from. He wrote 小説 named "月の彼方" and put it on the Web. I think it is about the memory of another timeline. 奏汰 comes to the bell place because that memory has a promise to meet someone/something there. うぐいす read the 小説 and also comes there too. The two of them haven't met for a long time in this timeline.
+
+I not sure why did うぐいす leave 奏汰 in this timeline. How close did 奏汰 and うぐいす get in this timeline during high school?
+
+うぐいす's disease has been treated. She just came back from another country. And 奏汰's tear is falling with knowing why.
+
+二人はそこで一緒に満月を見て
+
+---
+
+That is the end of うぐいす route.
 
 # `ruby` cheatsheet
 
