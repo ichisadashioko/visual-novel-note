@@ -22,14 +22,18 @@ It seems that 奏汰 works for a cafe (<ruby>店<rt>みせ</rt></ruby>).The cafe
 
 After work, we had two choices:
 
-- 俺のことを占ってもらう
-- 別の人を占ってもらう
+```
+  俺のことを占ってもらう
+x 別の人を占ってもらう
+```
 
 I probably skip <ruby>聖衣良<rt>せいら</rt></ruby> with second option. Now we have 3 more choices:
 
-- <ruby>新谷<rt>あらや</rt>灯華<rt>とうか</rt></ruby>
-- <ruby>日紫喜<rt>ひしき</rt>うぐいす</ruby>
-- <ruby>佐倉<rt>さくら</rt>雨音<rt>れいん</rt></ruby>
+```
+x 新谷灯華
+  日紫喜ひしきうぐいす
+  佐倉雨音
+```
 
 Let's choose our main heroine 灯華.
 
@@ -45,7 +49,7 @@ Let's choose our main heroine 灯華.
 
 <ruby>奏汰<rt>かなた</rt></ruby> met <ruby>雨音<rt>れいん</rt></ruby> on his moon stroll several days later.
 
-> <ruby>満月<rt>まんげつ</rt>の<rt></rt>日<rt>ひ</rt>に、お<rt></rt>月<rt>つき</rt>さまがいっぱい<rt></rt>涙<rt>なみだ</rt>を<rt></rt>流<rt>なが</rt>して、<rt></rt>泣<rt>な</rt>きやんだあとに
+> <ruby>満月<rt>まんげつ</rt>の<rt></rt>日<rt>ひ</rt>に、お<rt></rt>月<rt>つき</rt>さまがいっぱい<rt></rt>涙<rt>なみだ</rt>を<rt></rt>流<rt>なが</rt>して、<rt></rt>泣<rt>な</rt>きやんだあとに</ruby>
 
 It started to rain.
 
@@ -55,6 +59,11 @@ She got wet. And we can see her <ruby>下着<rt>したぎ</rt></ruby>. With a cu
 - <ruby>佐倉<rt>さくら</rt>の<rt></rt>肌<rt>はだ</rt>って</ruby>
 
 Let's be a gentleman here. I went with the first choice.
+
+```
+x なにか拭くものを
+  佐倉の肌って
+```
 
 > おまえは...誰だ
 
@@ -83,6 +92,11 @@ I think research about Moose code is kinda pathetic. I will go with second choic
 
 No, the second choice is boring.
 
+```
+x モールス信号を調べる
+  光で文字を書いてむる
+```
+
 灯華 is quite excited about Moose code.
 
 奏汰 spent the night with 灯華 inside 灯台.
@@ -95,8 +109,10 @@ They sent "Happy Birthday" in Moose code.
 
 うぐいす先輩 seems to know Moouse code. Flag time:
 
-- 灯華と一緒にやったと白状する
-- うぐいす先輩にはパレたくない
+```
+x 灯華と一緒にやったと白状する
+  うぐいす先輩にはパレたくない
+```
 
 I wonder if 灯華 is happy about we tell うぐいす先輩 about last night. Let's try.
 
@@ -108,8 +124,10 @@ Let's continue with our first choice.
 
 We are also being interrogated by 妹さん - 聖衣良.
 
-- 夜遊びしていたと認める
-- 聖衣良の教育上、否定する
+```
+x 夜遊びしていたと認める
+  聖衣良の教育上、否定する
+```
 
 Let's be an adult an admit that.
 
@@ -119,8 +137,10 @@ Adult is pretty unfair with children.
 
 Our next encounter with 雨音 at the cafe in another rainy day.
 
-- タオルをとりにいく
-- これくらいすぐに乾くはず
+```
+x タオルをとりにいく
+  これくらいすぐに乾くはず
+```
 
 ---
 
