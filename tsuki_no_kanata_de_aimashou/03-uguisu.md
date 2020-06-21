@@ -283,3 +283,134 @@ I not sure why did うぐいす leave 奏汰 in this timeline. How close did 奏
 ---
 
 That is the end of うぐいす route.
+
+## Second playthrough
+
+I realized that there are some missing CGs and the After Part is not unlocked for うぐいす先輩.
+
+```
+x 行くなと言う
+  灯華の好きにさせる
+```
+
+```
+  俺のことを占ってもらう
+x 別の人を占ってもらう
+```
+
+```
+  新谷灯華
+x 日紫喜うぐいす
+  佐倉雨音
+```
+
+```
+x なにか拭くものを···
+  佐倉の肌って···
+```
+
+```
+  モールス信号を調べる
+x 光で文字を書いてみる
+```
+
+```
+x 夜遊びしていたと認める
+  聖衣良の教育上、否定する
+```
+
+```
+x タオルをとりにいく
+  これくらいすぐに乾くはず
+```
+
+```
+x 見かけによらず乙女だよな
+  やっばりなんでもない
+```
+
+```
+  想いを書く (うぐいす) - not choosable
+  小説としての完成度を高める (灯華)
+  まったく別の展開を考える (聖衣良) - not choosable
+  落ち着いて考え直す (雨音)
+```
+
+---
+
+Rollback and not tease 灯華
+
+```
+  見かけによらず乙女だよな
+x やっばりなんでもない
+```
+
+```
+  想いを書く (うぐいす) - not choosable
+  小説としての完成度を高める (灯華)
+  まったく別の展開を考える (聖衣良) - not choosable
+  落ち着いて考え直す (雨音)
+```
+
+---
+
+Rollback and choose Morse code
+
+```
+x モールス信号を調べる
+  光で文字を書いてみる
+```
+
+I think we may get into うぐいす route with another perspective with this choice.
+
+```
+x 桃華と一緒にやったと白状する
+  うぐいす先輩にはバレたくない
+```
+
+```
+x 夜遊びしていたと認める
+  聖衣良の教育上、否定する
+```
+
+```
+x タオルをとりにいく
+  これくらいすぐに乾くはず
+```
+
+```
+x 見かけによらず乙女だよな
+  やっばりなんでもない
+```
+
+Yes, I unlocked うぐいす route. Let's see where this choice will lead us.
+
+```
+x 想いを書く (うぐいす)
+  小説としての完成度を高める (灯華)
+  まったく別の展開を考える (聖衣良) - not choosable
+  落ち着いて考え直す (雨音)
+```
+
+副部長 speech is still calm so I think we should be in うぐいす route now.
+
+副部長 asks うぐいす if there is any other reasons other than her disease that うぐいす does not go out with him. 副部長 suggests that うぐいす is interested in 奏汰. うぐいす didn't actually deny that but replied that 奏汰 is いい後輩. 灯華 and 奏汰 who were hiding in the storage room, intepreted it as that 奏汰 is not going to have much chance to go out with うぐいす.
+
+灯華 invited 奏汰 to the beach for a change. 
+
+```
+  これでぱっちりでせ！
+x はい、間違ってます
+```
+
+文芸部 needs to buy new books. うぐいす asks 奏汰 to come with her. As otaku culture, 奏汰 just has a date with うぐいす even through うぐいす has just reject his confession a few days ago.
+
+---
+
+奏汰 brought うぐいす to the hospital (ミドリホスピタル).
+
+> 先輩、慣れてたよな
+
+That was how 奏汰 feels when seeing how the hospital staffs handled うぐいす case - everything went smoothly. 奏汰 was left alone and waiting for うぐいす. 奏汰 looked outside the window and realized that the sky has already become dark. It made 奏汰 feel that うぐいす will never come back.
+
+> このままもうずっと先輩が戻って来ないような気がしてしまう
