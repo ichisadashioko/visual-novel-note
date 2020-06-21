@@ -121,3 +121,15 @@ So honesty is not rewarded with 聖衣良 route.
 > 作家になりたい
 
 is what 奏汰 thought while he was in the clubroom after school.
+
+---
+
+聖衣良のお母さん is about to re-marry. 聖衣良 thinks that her mother doesn't love her father anymore and runs away from home a few times at night.
+
+The story mostly shows 聖衣良 at the cafe with 奏汰. うぐいす先輩 came once and 聖衣良 marks うぐいす先輩 as rival.
+
+奏汰 was working on his 小説 at the cafe.
+
+---
+
+The story fast forward a few years and 奏汰 didn't met 聖衣良 during that time.
