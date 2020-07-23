@@ -414,3 +414,13 @@ x はい、間違ってます
 That was how 奏汰 feels when seeing how the hospital staffs handled うぐいす case - everything went smoothly. 奏汰 was left alone and waiting for うぐいす. 奏汰 looked outside the window and realized that the sky has already become dark. It made 奏汰 feel that うぐいす will never come back.
 
 > このままもうずっと先輩が戻って来ないような気がしてしまう
+
+---
+
+うぐいす tried a lot of methods from books that うぐいす read since the first day that うぐいす dated 奏汰. うぐいす came to 奏汰's classroom to pick 奏汰 up every single days in lunch time and after school. うぐいす also made lunch for 奏汰, came to 奏汰's house in the morning so that they can come to school together even though うぐいす's house doesn't seem close to 奏汰's house.
+
+奏汰 felt very akward. A few days later, 奏汰 invited his friend - 円 and 賢斗 - over to ask for how to deal with the current akward situation as うぐいす didn't leave time for 奏汰 to hang out with his friends - 円 and 賢斗. 円 and 賢斗 held a court-like thing to judge 奏汰's guilt for flirting with his girlfriend every single days in front of them. That was the second time they have a court like that. The first time was on the second day うぐいす and 奏汰 date each others and うぐいす came to 奏汰's classroom and amazed 奏汰's classmate and the surrounding classes.
+
+After having hear his friends' opinions, 奏汰 then had a talk with うぐいす as 奏汰 think they should not continue like this. 奏汰 asked うぐいす that if the 恋人らし things that うぐいす did recently was from all kind of books that うぐいす read. うぐいす admitted that as she didn't not know what to do as a couple, she tried those references from those books. 奏汰 told that as this was the first time for both of them, they can move at their own pace. There is not need to do things that they are not familiar with.
+
+After that, 奏汰 and うぐいす continued with their date. They went to the game center and うぐいす played at claw machine for the first time.
