@@ -50,4 +50,48 @@ x 見返す
   食事を続ける
 ```
 
-As 麻耶 went to clean her face, 忠臣 noticed that the couple nearby talking about the girl's seat gone cold. I think 忠臣 ordered something for 麻耶.
+As 麻耶 went to clean her face, 忠臣 noticed that the couple nearby talking about the girl's seat gone cold. I think 忠臣 ordered something for 麻耶. 麻耶 seems to be happy about that.
+
+---
+
+忠臣 lives alone. He rents an apartment and his neighbor has just moved out recently. <ruby>渡<rt>わたり</rt>心音<rt>ここね</rt></ruby> - the landlord's daughter - came by the tell 忠臣 that a new person will move in.
+
+---
+
+<ruby>辻堂<rt>つじどう</rt>忠臣<rt>ただおみ</rt></ruby> works at a bookstore. <ruby>上ノ山<rt>かみのやま</rt>芽愛<rt>めあ</rt></ruby> - one of the heroines - is also work here. <ruby>上ノ山<rt>かみのやま</rt>芽愛<rt>めあ</rt></ruby> is also 忠臣's 後輩 at school. <ruby>芽愛<rt>めあ</rt></ruby> seems to be always late for work.
+
+---
+
+We got to know about some interesting things which makes 英麻耶 embarrassed for a moment.
+
+<ruby>種村<rt>たねむら</rt>小柚子<rt>こゆず</rt>先輩<rt>せんぱい</rt></ruby> had some conflicts with her family and invited 辻堂忠臣 to hit some balls in order to relief her stress (Hum, I think I get this word wrong.). We got to hear some of <ruby>種村<rt>たねむら<rt></ruby>'s troubles.
+
+<ruby>上ノ山<rt>かみのやま</rt>芽愛<rt>めあ</rt></ruby> also got some trouble with her family. <ruby>芽愛<rt>めあ</rt></ruby> was interested in handmade things and she wanted to attend an event during the school exam peroid. <ruby>芽愛<rt>めあ</rt></ruby> left home and came to <ruby>忠臣<rt>ただおみ</rt></ruby>'s apartment for the night. Luckily, 忠臣 managed to persuade 芽愛 to come back home.
+
+<ruby>四谷<rt>よつや</rt>ハンナ</ruby> loved ラーメン and didn't tell anyone. 忠臣 happend to encounter ハンナ in the ラーメン屋. It was awkward for ハンナ as she was trying to hide from people her love for ラーメン. 忠臣 got ハンナ to open and talk about that trouble.
+
+Every heroines has shown to be lovely and charming in one way or another. However, I will choose to learn more about 英麻耶 first because 麻耶 catches my attention at little bit than the others.
+
+```
+x 英
+  上ノ山
+  種村先輩
+  四谷さん
+```
+
+We are about to get to know more about the choosen heroine in the summer break.
+
+---
+
+```
+  リードしてみたい
+x リードされてみたい
+```
+
+麻耶 was receiving weird letters from some stalkers and had 忠臣 become her bodyguard. It turned out it was a weird girl in the school that idolized 麻耶. The matter was resolved peacefully with a little bit of S-M jokes.
+
+麻耶 is afraid of hamster and there were some hamsters escaped the animal club and ran around the school ground. 生徒会たち needed to catch them before summer break otherwise, they will make love and make a mess during summer.
+
+---
+
+It seems that 忠臣 and 麻耶 met each other 10 years ago while 麻耶 was lost in the forest.
