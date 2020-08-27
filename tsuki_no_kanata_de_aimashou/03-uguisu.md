@@ -424,3 +424,19 @@ That was how 奏汰 feels when seeing how the hospital staffs handled うぐい�
 After having hear his friends' opinions, 奏汰 then had a talk with うぐいす as 奏汰 think they should not continue like this. 奏汰 asked うぐいす that if the 恋人らし things that うぐいす did recently was from all kind of books that うぐいす read. うぐいす admitted that as she didn't not know what to do as a couple, she tried those references from those books. 奏汰 told that as this was the first time for both of them, they can move at their own pace. There is not need to do things that they are not familiar with.
 
 After that, 奏汰 and うぐいす continued with their date. They went to the game center and うぐいす played at claw machine for the first time.
+
+---
+
+I think if we choose the first option - call うぐいす by her last name even though she is trying to getting their relationship more intimate, うぐいす might consider keep up with her treatement instead of spending time with 奏汰. Yeah, I'm destroying their relationship for うぐいす's life.
+
+```
+x 日紫喜さん
+  うぐいすさん
+  うぐいす
+```
+
+奏汰 still ended up refer うぐいす as うぐいすさん. I'm not sure what's about the `うぐいすさん` option. And うぐいす still refered 奏汰 as 奏汰くん. However, I think that with this option, the dialog was a little different with the last playthrough with the `うぐいす` option.
+
+---
+
+It turned out that the problem with missing CGs was the program fault. I was still able to view all the CGs but the CG counter was not updated. I also cannot go straight into うぐいす's `After Part` as it is blurred out.
