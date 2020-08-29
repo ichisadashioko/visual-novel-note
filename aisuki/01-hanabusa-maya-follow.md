@@ -95,3 +95,9 @@ x リードされてみたい
 ---
 
 It seems that 忠臣 and 麻耶 met each other 10 years ago while 麻耶 was lost in the forest.
+
+---
+
+I thought that we were going to have 麻耶 to be the one to propose but nope.
+
+![](https://i.imgur.com/42nS58F.png)
