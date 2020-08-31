@@ -1,0 +1,7 @@
+# Python virtualenv name
+flask
+
+.vscode
+
+node_modules
+.cache

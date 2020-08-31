@@ -1,0 +1,16 @@
+{
+  "name": "static",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "watch": "parcel watch src/index.tsx"
+  },
+  "dependencies": {
+    "@types/react": "^16.9.35",
+    "@types/react-dom": "^16.9.8",
+    "parcel": "^1.12.4",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "typescript": "^3.9.3"
+  }
+}
