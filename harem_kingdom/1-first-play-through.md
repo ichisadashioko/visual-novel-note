@@ -236,3 +236,131 @@ x シャルローネの部屋
 ```
 
 シャルローネ came out and pulled 陛下 into her room.
+
+# 04B - ダンスパーティー
+
+陛下 and 光 had a date before dance party. 陛下 brought 光 to the river as 光 loves swimming.
+
+陛下 confessed all his fetishes for 光 but 光 had already known them all.
+
+# 05A - マルーお姉ちゃん
+
+I think 光 will no longer do the blowjob thing this time anymore.
+
+```
+x 光の部屋
+  ソフィーヤの部屋
+  キキの部屋
+```
+
+Nope, it was still the same as last time with a little modification but it still wasn't appropriate with the current story flow.
+
+```
+  光の部屋
+x ソフィーヤの部屋
+  キキの部屋
+```
+
+ソフィーヤ was also the same as many days ago.
+
+```
+  光の部屋
+  ソフィーヤの部屋
+x キキの部屋
+```
+
+---
+
+# 05B - 過去の記憶
+
+マルー got sick and everyone became pathetic. The story itself was also gotten in a pathetic state.
+
+I think 陛下 was born from this world. When 陛下 was 8 years old, he was transported to Japan/Earth. And マルー might be 陛下's お姉ちゃん.
+
+# 06 - ハーレムの形
+
+Wedding was the following day.
+
+Wild 弟 appeared!
+
+マルー wanted 陛下 to think about どんな生活 after the "ハーレム" wedding tomorrow.
+
+A weird "ハーレム" fairy appeared!
+
+---
+
+Consult someone about what to do with the ハーレム.
+
+```
+  光の部屋
+  ソフィーヤの部屋
+  キキの部屋
+x シャルローネの部屋
+  マルーの部屋
+```
+
+> シャルローネ: 大好きよ？お兄様。私はどんな生活がこの先に待っていようとも、この気持ちに嘘はない
+
+---
+
+光's turn.
+
+```
+x 光の部屋
+  ソフィーヤの部屋
+  キキの部屋
+  マルーの部屋
+```
+
+> 光: 私はありのままハーレム生活が一番いいと思う
+
+---
+
+ソフィーヤ's turn.
+
+```
+x ソフィーヤの部屋
+  キキの部屋
+  マルーの部屋
+```
+
+> <ruby>ソフィーヤ: <rt></rt>私<rt>わたし</rt>は、せっかくみなさんとこうして一つの<rt></rt>家族<rt>かぞく</rt>になれるわけですから。<rt></rt>光<rt>ひかり</rt>さんたちと<rt></rt>協力<rt>きょうりょく</rt>して、<rt></rt>日々<rt>ひび</rt>旦那様<rt>だんなさま</rt>を<rt></rt>癒<rt>い</rt>やして<rt></rt>差<rt>さ</rt>し<rt></rt>上<rt>あ</rt>げる···そんな<rt></rt>毎日<rt>まいにち</rt>を<rt></rt>送<rt>おく</rt>ってみたいです</ruby>
+
+---
+
+```
+  キキの部屋
+x マルーの部屋
+```
+
+```
+x キキの部屋
+```
+
+---
+
+```
+どんな形のハーレムを目指す？
+
+  みんなが俺を奪い合うハーレム (火属性 - ひぞくせい) (光?)
+  みんなが俺癒してくれるハーレム (水属性 - みずぞくせい) (ソフィーヤ?)
+  俺がみんな引っ張るハーレム (風属性 - かぜぞくせい) (キキ?)
+x リードされる逆ハーレム (土属性 - つちぞくせい) (シャルローネ?)
+  やりたい放題するお気楽なハーレム (俺属性 - おれぞくせい) (マルー?)
+```
+
+# 土属性ルート 01
+
+The loading screen kept showing キキ with the 土 symbol.
+
+Everyone came back and forth between Japan/Earth and this world.
+
+# 土属性ルート 02
+
+陛下 didn't want to work that day.
+
+ソフィーヤ made 陛下 a drink that made his チンコ disappeared.
+
+シャルローネ did the ナルト thing with 陛下's 肛門.
+
+It ended pretty terrible for 陛下.
