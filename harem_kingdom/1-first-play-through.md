@@ -364,3 +364,9 @@ Everyone came back and forth between Japan/Earth and this world.
 シャルローネ did the ナルト thing with 陛下's 肛門.
 
 It ended pretty terrible for 陛下.
+
+# 土属性ルート 03
+
+# 土属性ルート 04
+
+キキ forced everyone to do physical training.
