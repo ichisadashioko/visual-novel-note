@@ -1,7 +1,15 @@
 let app = document.getElementById('app')
 let notes = [
     '公住<rt>くずみ</rt>清史朗<rt>きよしろ</rt>',
-    '田寄<rt>たより</rt>多乃実<rt>たのみ</rt>'
+    '田寄<rt>たより</rt>多乃実<rt>たのみ</rt>',
+    '雪子<rt>ゆきこ</rt>先輩<rt>せんぱい</rt>',
+    '山<rt>やま</rt>道<rt>みち</rt>前<rt>まえ</rt>',
+    '自然<rt>しぜん</rt>公園<rt>こうえん</rt>',
+    '分<rt>わ</rt>かれ<rt></rt>道<rt>みち</rt>',
+    '高<rt>たか</rt>台<rt>だい</rt>',
+    'ビジネス<rt></rt>街<rt>がい</rt>',
+    '学園<rt>がくえん</rt>前<rt>まえ</rt>の<rt></rt>通<rt>とお</rt>り',
+    '公園<rt>こうえん</rt>横<rt>よこ</rt>の<rt></rt>住宅<rt>じゅうたく</rt>街<rt>がい</rt>',
 ]
 
 for (let i = 0, n = notes.length; i < n; i++) {
