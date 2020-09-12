@@ -10,6 +10,9 @@ let notes = [
     'ビジネス<rt></rt>街<rt>がい</rt>',
     '学園<rt>がくえん</rt>前<rt>まえ</rt>の<rt></rt>通<rt>とお</rt>り',
     '公園<rt>こうえん</rt>横<rt>よこ</rt>の<rt></rt>住宅<rt>じゅうたく</rt>街<rt>がい</rt>',
+    '新海<rt>しんかい</rt>幸<rt>ゆうき</rt>',
+    '天満<rt>てんま</rt>八純<rt>はすみ</rt>',
+    '雛山<rt>ひなやま</rt>吾郎<rt>ごろう</rt>',
 ]
 
 for (let i = 0, n = notes.length; i < n; i++) {
