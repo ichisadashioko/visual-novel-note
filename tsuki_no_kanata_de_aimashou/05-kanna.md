@@ -51,3 +51,14 @@ In the following day(s), <ruby>松宮<rt>まつみや</rt>霧子<rt>きりこ</r
 <ruby>奏汰<rt>かなた</rt></ruby> pressed the doorbell to call out <ruby>岬<rt>みさき</rt></ruby>. <ruby>岬<rt>みさき</rt></ruby> replied back with a soft and beautiful voice or because of I haven't heard any voice for a long time.
 
 ![](https://i.imgur.com/qXLuCcb.png)
+
+---
+
+<ruby>奏汰<rt>かなた</rt></ruby> gave some feedback to <ruby>栞菜<rt>かんな</rt></ruby>'s draft.
+
+```
+x よくない
+  これでいい
+```
+
+I think the second option may lead to <ruby>霧子<rt>きりこ</rt></ruby> route.
