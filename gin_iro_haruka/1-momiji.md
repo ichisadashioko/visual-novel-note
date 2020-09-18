@@ -6,7 +6,7 @@ The protagonist's name (default name) is <ruby>新見<rt>にいみ</rt>雪兎<rt
 
 <ruby>平成<rt>へいせい</rt>14年11月25月</ruby> (nope there was no 日 character there - TODO learn about Japanese imperial calendar system)
 
-__四月十一日__
+__四月十一日（月曜日）__
 
 > <ruby>...<rt></rt>銀色<rt>ぎんいろ</rt>の<rt></rt>雪<rt>ゆき</rt></ruby>
 
@@ -76,3 +76,88 @@ Bethly did not have any interests in 日本.
 After school, <ruby>雪兎<rt>ゆきと</rt></ruby> came to meet <ruby>如月<rt>きさらぎ</rt>瑞羽<rt>みずは</rt></ruby>. <ruby>如月<rt>きさらぎ</rt>瑞羽<rt>みずは</rt></ruby> is a year older than <ruby>雪兎<rt>ゆきと</rt></ruby> and two of them seemed to know each others for a long time. <ruby>如月<rt>きさらぎ</rt>瑞羽<rt>みずは</rt></ruby> and <ruby>雪兎<rt>ゆきと</rt></ruby> did not talk much during the first few minutes when they met each others (after a long time). <ruby>如月<rt>きさらぎ</rt>瑞羽<rt>みずは</rt></ruby> was shocked when <ruby>雪兎<rt>ゆきと</rt></ruby> called her <ruby>如月<rt>きさらぎ</rt>先輩<rt>せんぱい</rt></ruby>.
 
 <ruby>如月<rt>きさらぎ</rt>瑞羽<rt>みずは</rt></ruby> promised something with <ruby>雪兎<rt>ゆきと</rt></ruby> before she went aboard in <ruby>雪兎<rt>ゆきと</rt></ruby> (お嫁さんになります?).
+
+---
+
+While <ruby>雪兎<rt>ゆきと</rt></ruby> was waiting for <ruby>雪月<rt>ゆずき</rt></ruby> after school, he saw a first year girl and she knew <ruby>雪兎<rt>ゆきと</rt></ruby>'s name.
+
+![](https://i.imgur.com/9EtqrRQ.png)
+
+The girl's name is <ruby>蒼井<rt>あおい</rt>雛多<rt>ひなた</rt></ruby>. <ruby>蒼井<rt>あおい</rt>雛多<rt>ひなた</rt></ruby> is <ruby>雪月<rt>ゆずき</rt></ruby>'s classmate. <ruby>蒼井<rt>あおい</rt>雛多<rt>ひなた</rt></ruby> wanted to go home together with <ruby>雪月<rt>ゆずき</rt></ruby>. However, <ruby>雪兎<rt>ゆきと</rt></ruby> and <ruby>雪月<rt>ゆずき</rt></ruby> were about to go to まりあ's store. Three of them went there. The family did have to explain their family relationship to <ruby>蒼井<rt>あおい</rt>雛多<rt>ひなた</rt></ruby>.
+
+---
+
+<ruby>雪月<rt>ゆずき</rt></ruby> and <ruby>雪兎<rt>ゆきと</rt></ruby> had dinner together. Their parents were late on that day.
+
+The choices' meaning is so fuzzy. The second option looked like <ruby>雪兎<rt>ゆきと</rt></ruby> would treat <ruby>雪月<rt>ゆずき</rt></ruby> as 妹 only.
+
+```
+  いいに決まってるだろ？
+x もちろん、付き合うよ
+```
+
+__四月十二日（火曜日）__
+
+<ruby>名白<rt>なしろ</rt>椛<rt>もみじ</rt></ruby> asked <ruby>雪兎<rt>ゆきと</rt></ruby> about <ruby>如月<rt>きさらぎ</rt>先輩</ruby>.
+
+<ruby>名白<rt>なしろ</rt>椛<rt>もみじ</rt></ruby> was into <ruby>演劇<rt>えんげき</rt></ruby>. <ruby>名白<rt>なしろ</rt>椛<rt>もみじ</rt></ruby> lived in the <ruby>関東<rt>かんとう</rt></ruby> region before going to the current school. <ruby>名白<rt>なしろ</rt>椛<rt>もみじ</rt></ruby> talked about her <ruby>演劇<rt>えんげき</rt></ruby> hobby during her first year.
+
+```
+x 是非すぐに見せてほし
+  いつか見せてほし
+```
+
+<ruby>雪兎<rt>ゆきと</rt></ruby> got to use a single <ruby>携帯<rt>けいたい</rt>カイロ</ruby> with Bethly and <ruby>名白<rt>なしろ</rt>椛<rt>もみじ</rt></ruby>. Bethly was a little embarrassed as all of their hands touched each others.
+
+---
+
+<ruby>放課後<rt>ほうかご</rt></ruby>
+
+<ruby>雪兎<rt>ゆきと</rt></ruby>, <ruby>雪月<rt>ゆずき</rt></ruby> and <ruby>蒼井<rt>あおい</rt>雛多<rt>ひなた</rt></ruby> came to the skating ground. <ruby>雪兎<rt>ゆきと</rt></ruby> still called <ruby>如月<rt>きさらぎ</rt>瑞羽<rt>みずは</rt></ruby> using her last name and she was still annoyed by that. 二人まだ仲直りをした.
+
+We had a flaskback about <ruby>雪兎<rt>ゆきと</rt></ruby>, <ruby>如月<rt>きさらぎ</rt>瑞羽<rt>みずは</rt></ruby>, and <ruby>桧崎<rt>ひざき</rt>まりあ</ruby>.
+
+---
+
+<ruby>雪月<rt>ゆずき</rt></ruby> remembered back about when she first met <ruby>雪兎<rt>ゆきと</rt></ruby>.
+
+---
+
+__<ruby>四月<rt>よんがつ</rt>十四日<rt>じゅうよっか</rt>（<rt></rt>木曜日<rt>もくようび</rt>）</ruby>__
+
+When <ruby>雪兎<rt>ゆきと</rt></ruby> was coming back to the classroom from the toilet, <ruby>蒼井<rt>あおい</rt>雛多<rt>ひなた</rt></ruby> was there and hugged him. <ruby>蒼井<rt>あおい</rt>雛多<rt>ひなた</rt></ruby> wanted to surprise <ruby>雪兎<rt>ゆきと</rt></ruby>.
+
+<ruby>蒼井<rt>あおい</rt>雛多<rt>ひなた</rt></ruby> led <ruby>雪兎<rt>ゆきと</rt></ruby> to an empty classroom and told him to get his clothes off. Oh, <ruby>蒼井<rt>あおい</rt>雛多<rt>ひなた</rt></ruby> wanted to fix a loosen button on <ruby>雪兎<rt>ゆきと</rt></ruby>'s 制服.
+
+<ruby>雪兎<rt>ゆきと</rt></ruby> thanked <ruby>蒼井<rt>あおい</rt>雛多<rt>ひなた</rt></ruby> for fixing his clothes. <ruby>蒼井<rt>あおい</rt>雛多<rt>ひなた</rt></ruby> then told <ruby>雪兎<rt>ゆきと</rt></ruby> to call her as ヒナ from now on.
+
+---
+
+<ruby>雪兎<rt>ゆきと</rt></ruby> saw <ruby>名白<rt>なしろ</rt>椛<rt>もみじ</rt></ruby> go to the empty classroom. I guessed <ruby>名白<rt>なしろ</rt>椛<rt>もみじ</rt></ruby> was there for practising <ruby>演劇<rt>えんげき</rt></ruby>.
+
+<ruby>雪兎<rt>ゆきと</rt></ruby> was amazed by <ruby>名白<rt>なしろ</rt>椛<rt>もみじ</rt></ruby>'s acting.
+
+```
+x 声をかける
+  もう少し見ている
+```
+
+__<ruby>四月<rt>よんがつ</rt>十五日<rt>じゅうごにち</rt>（<rt></rt>金曜日<rt>きんようび</rt>）</ruby>__
+
+Bethly was having trouble with some dishes during <ruby>給食<rt>きゅうしょく</rt></ruby> and asked <ruby>雪兎<rt>ゆきと</rt></ruby>. I think Bethly was having trouble with unknown food.
+
+```
+x 貰っていいか？
+  残せばいいよ
+```
+
+---
+
+<ruby>雪兎<rt>ゆきと</rt></ruby> realized what made <ruby>如月<rt>きさらぎ</rt>瑞羽<rt>みずは</rt></ruby> act strangely and came to her practising place to apologize.
+
+```
+x 俺も会いたかった
+  ごめん
+```
+
+__<ruby>四月<rt>よんがつ</rt>十六日<rt>じゅうろくにち</rt>（<rt></rt>土曜日<rt>どようび</rt>）</ruby>__
