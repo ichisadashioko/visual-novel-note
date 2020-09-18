@@ -183,3 +183,28 @@ x 自分で注意する
 ```
 
 __<ruby>04/20(水曜日)__
+
+![](https://i.imgur.com/iSTsvsB.png)
+
+<ruby>名白<rt>なしろ</rt>椛<rt>もみじ</rt></ruby> sent <ruby>雪兎<rt>ゆきと</rt></ruby> a note during class. It wrote:
+
+> なにかお話しよ？
+
+```
+  今日の給食、楽しみだね
+  真面目に聞いてないと怒られるよ
+x 昨日のドラマ見た？
+```
+
+---
+
+<ruby>雪兎<rt>ゆきと</rt></ruby> was going to eat outside that day. There was a restaurant that まりあ suggested the other day. Coincidencely, <ruby>如月<rt>きさらぎ</rt>瑞羽<rt>みずは</rt></ruby> was there. <ruby>如月<rt>きさらぎ</rt>瑞羽<rt>みずは</rt></ruby> seemed a little bit worried about her diet before eating.
+
+I wanted to make <ruby>如月<rt>きさらぎ</rt>瑞羽<rt>みずは</rt></ruby> blush a little bit.
+
+```
+  いつも美味しそうに食べるね
+x 俺もあげようか？
+```
+
+__04/22(金曜日)__
