@@ -208,3 +208,20 @@ x 俺もあげようか？
 ```
 
 __04/22(金曜日)__
+
+There was a beatiful teaching assistant that knew <ruby>雪兎<rt>ゆきと</rt></ruby>'s mother - まりあ. <ruby>雪兎<rt>ゆきと</rt></ruby> led her to まりあ's store. They drank, sang, and played violin there.
+
+__04/23(土曜日)__
+
+<ruby>雪兎<rt>ゆきと</rt></ruby> blackmailed ももちゃん先生 for something.
+
+__04/25(月曜日)__
+
+<ruby>雪兎<rt>ゆきと</rt></ruby> was luring <ruby>雪月<rt>ゆずき</rt></ruby> into his ultimate harem plan.
+
+```
+x 雪月にも参加してほしいんだ
+  嫌だったら、無理にとは言わないけど
+```
+
+__04/26(火曜日)__
