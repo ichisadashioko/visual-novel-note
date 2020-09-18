@@ -161,3 +161,25 @@ x 俺も会いたかった
 ```
 
 __<ruby>四月<rt>よんがつ</rt>十六日<rt>じゅうろくにち</rt>（<rt></rt>土曜日<rt>どようび</rt>）</ruby>__
+
+<ruby>雛多<rt>ひなた</rt></ruby> was coming to <ruby>雪兎<rt>ゆきと</rt></ruby>'s house (probably to play with <ruby>雪月<rt>ゆずき</rt></ruby>).
+
+I wanted to meet some other heroine. My first priority was <ruby>椛<rt>もみじ</rt></ruby>.
+
+```
+x 牛乳を買いに行く
+  紅茶にする
+```
+
+Nope, that was fast. No encounter happened.
+
+When <ruby>雪兎<rt>ゆきと</rt></ruby> brought the drink for <ruby>瑞羽<rt>みずは</rt></ruby> and <ruby>雛多<rt>ひなた</rt></ruby>, he heard <ruby>雪月<rt>ゆずき</rt>のエロ声</ruby>.
+
+<ruby>雛多<rt>ひなた</rt></ruby> was so focus on the マンガ and didn't notice that her パンツ was revealing.
+
+```
+x 自分で注意する
+  雪月に伝えてもらう
+```
+
+__<ruby>04/20(水曜日)__
