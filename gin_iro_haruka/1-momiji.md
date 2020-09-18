@@ -225,3 +225,9 @@ x 雪月にも参加してほしいんだ
 ```
 
 __04/26(火曜日)__
+
+<ruby>雪兎<rt>ゆきと</rt></ruby> was making "poster" for his "harem plan" but his drawing is terrible. <ruby>雪兎<rt>ゆきと</rt></ruby> and <ruby>名白<rt>なしろ</rt>椛<rt>もみじ</rt></ruby> got Bethly to draw and found out that Bethly was good at drawing. Bethly's mother was an artist. However, she had already passed away.
+
+<ruby>雪兎<rt>ゆきと</rt></ruby> looked up about Bethly's mother that night.
+
+__04/27(水曜日)__
