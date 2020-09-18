@@ -231,3 +231,47 @@ __04/26(火曜日)__
 <ruby>雪兎<rt>ゆきと</rt></ruby> looked up about Bethly's mother that night.
 
 __04/27(水曜日)__
+
+It was <ruby>如月<rt>きさらぎ</rt>瑞羽<rt>みずは</rt></ruby>'s turn to be lured into <ruby>雪兎<rt>ゆきと</rt></ruby>'s "harem plan".
+
+```
+x もう少し粘ってみる
+  諦める
+```
+
+__05/04(水曜日)__
+
+<ruby>蒼井<rt>あおい</rt>雛多<rt>ひなた</rt></ruby> did decide to participate in <ruby>雪兎<rt>ゆきと</rt></ruby>'s "harem plan" even though she was not sure what she was going to do there.
+
+<ruby>名白<rt>なしろ</rt>椛<rt>もみじ</rt></ruby> considered to participate in the <ruby>ワンルーム<rt>one room</rt>学級<rt>がっきゅう</rt></ruby>.
+
+<ruby>如月<rt>きさらぎ</rt>瑞羽<rt>みずは</rt></ruby>'s coach saw <ruby>雪兎<rt>ゆきと</rt></ruby>'s flyer that <ruby>瑞羽<rt>みずは</rt></ruby> was crying with and got her to talk about it.
+
+<ruby>雪月<rt>ゆずき</rt></ruby> left a thank you note on <ruby>雪兎<rt>ゆきと</rt></ruby>'s clothes while he was taking a bath.
+
+Bethly looked at her mother paintings with her dad. Bethly had flashback about her mother and she were playing under the snow together.
+
+__05/07(金曜日)__
+
+Bethly hadn't gone back to school after Golden Week.
+
+__05/09__
+
+<ruby>雪兎<rt>ゆきと</rt></ruby> asked ももちゃん先生 to see whether she knew anything about why Bethly hadn't not gone to school.
+
+ゴメン、椛.
+
+```
+x 気になります
+  違いますよ
+```
+
+ももちゃん先生 revealed that Bethly's father is a pilot. <ruby>雪兎<rt>ゆきと</rt></ruby> was finding reason to come to see Bethly at her house.
+
+__05/10__
+
+<ruby>雪兎<rt>ゆきと</rt></ruby> got permission to come to Bethly's house. <ruby>雪兎<rt>ゆきと</rt></ruby> and <ruby>雪月<rt>ゆずき</rt></ruby> then came to Bethly's house. They met Bethly's dad - Brian. It seemed that Bethly was not going to show herself. <ruby>雪兎<rt>ゆきと</rt></ruby> invited Brian to まりあ's store.
+
+まりあ, <ruby>雪兎<rt>ゆきと</rt></ruby> and <ruby>雪月<rt>ゆずき</rt></ruby> made some pancakes for Bethly before Brian came home. Bethly realized <ruby>雪兎<rt>ゆきと</rt>の<rt></rt>下手<rt>へた</rt>な<rt></rt>絵<rt>え</rt></ruby> that he drew on the pancakes.
+
+__05/12(木曜日)__
