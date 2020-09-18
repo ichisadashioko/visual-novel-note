@@ -16,6 +16,11 @@ let notes = [
     '雛山<rt>ひなやま</rt>吾郎<rt>ごろう</rt>',
     // Pure x Connect
     '紺野<rt>こんの</rt>彩里沙<rt>ありさ</rt>',
+    // Kanojo Step
+    '椎名<rt>しな</rt>',
+    // 銀色、遥か
+    '雪月<rt>ゆずき</rt>',
+    '瑞羽<rt>みずは</rt>',
 ]
 
 for (let i = 0, n = notes.length; i < n; i++) {
