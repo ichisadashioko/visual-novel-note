@@ -275,3 +275,13 @@ __05/10__
 まりあ, <ruby>雪兎<rt>ゆきと</rt></ruby> and <ruby>雪月<rt>ゆずき</rt></ruby> made some pancakes for Bethly before Brian came home. Bethly realized <ruby>雪兎<rt>ゆきと</rt>の<rt></rt>下手<rt>へた</rt>な<rt></rt>絵<rt>え</rt></ruby> that he drew on the pancakes.
 
 __05/12(木曜日)__
+
+Bethly came to school that day. Bethly thanked <ruby>雪兎<rt>ゆきと</rt></ruby> for the pancake at the other day. That was the first time <ruby>雪兎<rt>ゆきと</rt></ruby> saw Bethly smiles.
+
+__05/13(金曜日)__
+
+All the heroines went to the <ruby>ワンルーム<rt></rt>学級<rt>がっきゅう</rt></ruby> thing. <ruby>雪兎<rt>ゆきと</rt></ruby> talked about some mountain. <ruby>雪兎<rt>ゆきと</rt></ruby> also got Bethly to talk about Canada and her mother.
+
+<ruby>雪兎<rt>ゆきと</rt></ruby> and Bethly went to home together that day (with some other people). Please stop using your broken English.
+
+__05/15(日曜日)__
