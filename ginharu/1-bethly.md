@@ -285,3 +285,78 @@ All the heroines went to the <ruby>ワンルーム<rt></rt>学級<rt>がっき�
 <ruby>雪兎<rt>ゆきと</rt></ruby> and Bethly went to home together that day (with some other people). Please stop using your broken English.
 
 __05/15(日曜日)__
+
+It seemed that the group would climb the mountain that <ruby>雪兎<rt>ゆきと</rt></ruby> presented at the <ruby>ワンルーム<rt></rt>がっきゅう<rt></ruby> the other day. <ruby>雪月<rt>ゆずき</rt></ruby> was too excited for it so she didn't have much sleep the night before. <ruby>雪兎<rt>ゆきと</rt></ruby> and <ruby>雪月<rt>ゆずき</rt></ruby> helped <ruby>優子<rt>ゆうこ</rt></ruby> make <ruby>弁当<rt>べんとう</rt></ruby> for the trip that day. They made enough for 7 people (雪兎 (1), <ruby>雪月<rt>ゆずき</rt></ruby> (2), <ruby>雛多<rt>ひなた</rt></ruby> (3), <ruby>椛<rt>もみじ</rt></ruby> (4), Bethly (5), <ruby>瑞羽<rt>みずは</rt></ruby> (6), ももちゃん先生 (7)).
+
+---
+
+<ruby>雪兎<rt>ゆきと</rt></ruby> and <ruby>雪月<rt>ゆずき</rt></ruby> were the first ones to be at the gathering location. <ruby>雛多<rt>ひなた</rt></ruby> was being ナンパ.
+
+The 彼女 option sounded fun.
+
+```
+x 俺の彼女がどうかしましたか？
+  俺の先輩がどうかしましたか？
+  俺の妹がどうかしましたか？
+```
+
+<ruby>雛多<rt>ひなた</rt></ruby> was only being asked for direction by two foreigners.
+
+It seemed that Bethly would not come. The six of them went on their trip without Bethly.
+
+---
+
+![](https://i.imgur.com/Ak4Z5a7.png)
+
+Bethly was already on the snow mountain and making a <ruby>小<rt>ちい</rt>さな<rt></rt>雪<rt>ゆき</rt>だるま</ruby> alone. <ruby>雪兎<rt>ゆきと</rt></ruby> only found her after hearing her "くちゅんっ". Could anyone just fix Bethly's "<ruby>納得<rt>なっとく</rt></ruby>".
+
+They were going to play <ruby>雪合戦<rt>ゆきがっせん</rt></ruby>.
+
+Team choosing time. First turn:
+
+Heroine route choosing time?
+
+```
+x ベスリー
+  雛多
+  椛
+  瑞羽
+  雪月
+```
+
+<ruby>雪兎<rt>ゆきと</rt></ruby> chose <ruby>名白<rt>なしろ</rt>椛<rt>もみじ</rt></ruby> on the second turn. <ruby>雪兎<rt>ゆきと</rt></ruby>, Bethly and <ruby>名白<rt>なしろ</rt>椛<rt>もみじ</rt></ruby> lost the game.
+
+__05/18(水曜日)__
+
+<ruby>如月<rt>きさらぎ</rt>瑞羽<rt>みずは</rt></ruby> presented at the <ruby>ワンルーム<rt></rt>学級<rt>がっきゅう</rt></ruby>. She called <ruby>雪兎<rt>ゆきと</rt></ruby> two days before and asked for suggestion.
+
+<ruby>雪兎<rt>ゆきと</rt></ruby> was the one to teach/introduce <ruby>如月<rt>きさらぎ</rt>瑞羽<rt>みずは</rt></ruby> to skating. <ruby>如月<rt>きさらぎ</rt>瑞羽<rt>みずは</rt></ruby> was very shy when she first met <ruby>雪兎<rt>ゆきと</rt></ruby> but she opened to him like a few minutes later when he brought her to the park.
+
+I felt so guilty if I would not choose <ruby>如月<rt>きさらぎ</rt>瑞羽<rt>みずは</rt></ruby> after the flashback.
+
+__05/19(木曜日)__
+
+<ruby>雪兎<rt>ゆきと</rt></ruby> took <ruby>雛多<rt>ひなた</rt></ruby> to the <ruby>商店街<rt>しょうてんがい</rt></ruby>. <ruby>雪兎<rt>ゆきと</rt></ruby> was helping <ruby>雛多<rt>ひなた</rt></ruby> to prepare her <ruby>ワンルーム<rt></rt>学級<rt>がっきゅう</rt></ruby> presentation. <ruby>雛多<rt>ひなた</rt></ruby> brought some clothes from her mother store and then came to <ruby>雪兎<rt>ゆきと</rt></ruby>'s house.
+
+__05/20(金曜日)__
+
+> <ruby>雛多<rt>ひなた</rt>:　というわけで、<rt></rt>先輩<rt>せんぱい</rt>は<rt></rt>一時的<rt>いちじてき</rt>に<rt></rt>彼氏<rt>かれし</rt>（<rt></rt>仮<rt>かり</rt>）だ。<rt></rt>誰<rt>だれ</rt>からにする？<rt></rt>誰<rt>だれ</rt>を<rt></rt>意識<rt>いしき</rt>しちゃいたい？</ruby>
+
+```
+x ベスリー
+  雛多
+  椛
+  瑞羽
+  雪月
+```
+
+__05/23(月曜日)__
+
+It was about <ruby>雪月<rt>ゆずき</rt></ruby> turn to present.
+
+<ruby>雪月<rt>ゆずき</rt></ruby> and <ruby>雪兎<rt>ゆきと</rt></ruby> were looking through some sweets to prepare for the next <ruby>ワンルーム<rt></rt>学級<rt>がっきゅう</rt></ruby>.
+
+```
+x 雪月が作れるモノを選ぼう
+  いや、難しいと思うよ
+```
