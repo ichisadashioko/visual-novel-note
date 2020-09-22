@@ -166,7 +166,7 @@ x 気になる男子について聞いてみる
 
 # 05/09 (10)
 
-I think this is the final turn. Ten sounds like a good number. <ruby>椎名<rt>しな</rt></ruby> did not show up after school a lot of days so that may be why <ruby>椎名<rt>しな</rt></ruby> took so more turns than のえ route.
+I think this is the final turn. Ten sounds like a good number. <ruby>椎名<rt>しいな</rt></ruby> did not show up after school a lot of days so that may be why <ruby>椎名<rt>しいな</rt></ruby> took so more turns than のえ route.
 
 > 二年教室
 
