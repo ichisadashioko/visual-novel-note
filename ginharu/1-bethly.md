@@ -360,3 +360,59 @@ It was about <ruby>雪月<rt>ゆずき</rt></ruby> turn to present.
 x 雪月が作れるモノを選ぼう
   いや、難しいと思うよ
 ```
+
+__05/24(火曜日)__
+
+<ruby>雪月<rt>ゆずき</rt></ruby> will present at the <ruby>ワンルーム<rt></rt>学級<rt>がっきゅう</rt></ruby>.
+
+<ruby>雪月<rt>ゆずき</rt></ruby> starts off with a very <ruby>敬語<rt>けいご</rt></ruby> speech as she is so nervous. <ruby>雪月<rt>ゆずき</rt></ruby> introduces that マドレーヌ is originated from France. Everyone (the heroines) seems to take an interest in <ruby>雪月<rt>ゆずき</rt></ruby> idea and moves to the next to class to make マドレーヌ.
+
+While making the cake, <ruby>雪月<rt>ゆずき</rt></ruby> has so much fun and she is about to call <ruby>雪兎<rt>ゆきと</rt></ruby> お兄ちゃん but she stops.
+
+<ruby>雪月<rt>ゆずき</rt></ruby> was able to say お兄ちゃん to <ruby>雪兎<rt>ゆきと</rt></ruby> that night. <ruby>雪兎<rt>ゆきと</rt></ruby> was overjoyed and hugged <ruby>雪月<rt>ゆずき</rt></ruby>.
+
+__05/25(水曜日)__
+
+It would be <ruby>名白<rt>なしろ</rt>椛<rt>もみじ</rt></ruby>'s turn in the next <ruby>ワンルーム<rt></rt>学級<rt>がっきゅう</rt></ruby> that day. Everyone was amazed by <ruby>名白<rt>なしろ</rt>椛<rt>もみじ</rt></ruby>'s acting. They would about to perform a [play](https://en.wikipedia.org/wiki/Play_(theatre)).
+
+<ruby>雪兎<rt>ゆきと</rt></ruby> and <ruby>名白<rt>なしろ</rt>椛<rt>もみじ</rt></ruby> went to <ruby>商店街<rt>しょうてんがい</rt></ruby> to brought the equipments. <ruby>雪兎<rt>ゆきと</rt></ruby> "deceived" <ruby>名白<rt>なしろ</rt>椛<rt>もみじ</rt></ruby> into coming to his house. The restaurant that <ruby>雪兎<rt>ゆきと</rt></ruby> came to before, was <ruby>名白<rt>なしろ</rt>椛<rt>もみじ</rt></ruby>'s house. The two became neighbors.
+
+まりあ teased <ruby>雪兎<rt>ゆきと</rt></ruby> when he brought <ruby>名白<rt>なしろ</rt>椛<rt>もみじ</rt></ruby> to the store.
+
+__05/26(木曜日)__
+
+__05/28(土曜日)__
+
+<ruby>雛多<rt>ひたな</rt></ruby> was driving off the script. I would be mad if someone messed up the script on the stage. It would end up pretty bad. Bad <ruby>雛多<rt>ひたな</rt></ruby>.
+
+They came to まりあ's store that night to celebrate. I think this would be the end of the <ruby>ワンルーム<rt></rt>学級<rt>がっきゅう</rt></ruby> arc.
+
+The opening movie rolled out. <ruby>椛<rt>もみじ</rt></ruby> seemed to be the one with the most screen time. <ruby>椛<rt>もみじ</rt></ruby> had become so beautiful in highschool (in the OP).
+
+__06/08(水曜日)__
+
+The day started at <ruby>雪兎<rt>ゆきと</rt></ruby>'s house where he and <ruby>雪月<rt>ゆずき</rt></ruby> were preparing to go to school. That day was too warm but they still "have to" wear the winter <ruby>制服<rt>せいふく</rt></ruby> until June 20th.
+
+Middle-school pool arc?
+
+Yep, cleaning pool arc was coming. Our good boy <ruby>雪兎<rt>ゆきと</rt></ruby> volunteered to clean the school pool. <ruby>雪兎<rt>ゆきと</rt></ruby> was going to drag all the heroines with him. <ruby>名白<rt>なしろ</rt>椛<rt>もみじ</rt></ruby> and Bethly were going to be <ruby>雪兎<rt>ゆきと</rt></ruby>'s first victims. Yep, <ruby>名白<rt>なしろ</rt>椛<rt>もみじ</rt></ruby> was the first one to get caught.
+
+<ruby>雛多<rt>ひなた</rt></ruby> might have to clean the school pool as she was texting so much about it on LIME.
+
+__06/11(土曜日)__
+
+That day was the pool cleaning day. It seemed that nobody who had to clean the pool, came except for <ruby>雪兎<rt>ゆきと</rt></ruby>.
+
+> <ruby>体育<rt>たいいく</rt>教師<rt>きょうし</rt>:　やられた</ruby>
+
+Who would be the first to come and "rescue" <ruby>雪兎<rt>ゆきと</rt></ruby>? It was Bethly.
+
+Bethly got change in front of <ruby>雪兎<rt>ゆきと</rt></ruby>. Well, Bethly probably wore <ruby>水着<rt>みずぎ</rt></ruby> under her <ruby>制服<rt>せいふく</rt></ruby>. Sorry writers, I just read/watched too much. It is not your fault.
+
+Please fix Bethly's <ruby>納得<rt>なっとく</rt></ruby>! How many chapters had passed?
+
+テレテレベスリー
+
+![](https://i.imgur.com/TjbtfjV.png)
+
+__06/19(日曜日)__
