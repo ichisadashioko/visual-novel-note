@@ -416,3 +416,167 @@ Please fix Bethly's <ruby>納得<rt>なっとく</rt></ruby>! How many chapters 
 ![](https://i.imgur.com/TjbtfjV.png)
 
 __06/19(日曜日)__
+
+<ruby>雪兎<rt>ゆきと</rt></ruby> and Bethly would have a date that day. What? Bethly's father - Brian - was out that day. Can we just get into Bethly route right there? How can <ruby>雪兎<rt>ゆきと</rt></ruby> just easily invite girls to come to his house? イケメン?
+
+ゲームセンター店員、テンション高いすぎ
+
+Okay, so how much <ruby>雪兎<rt>ゆきと</rt></ruby> would going to spend to get Bethly something from those shitty machines at the ゲームセンター. Poor Bethly, she was the one to get tricked to spend money.
+
+プリントシール time. Wait for it. Bethly was not deceived this time. 残念.
+
+No Japanese. Do not promote your shitty English accent. Bad Japanese.
+
+__08/10(水曜日)__
+
+That should be done for Bethly. Bethly went back to Canada that summer. Four more heroines more to go. I guessed <ruby>名白<rt>なしろ</rt>椛<rt>もみじ</rt></ruby> would be the next one as <ruby>雪兎<rt>ゆきと</rt></ruby> came to まりあ's store. Nope, only ももちゃん先生 came.
+
+__09/15(木曜日)__
+
+__10/11(火曜日)__
+
+__10/14(金曜日)__
+
+__12/12(月曜日)__
+
+__12/22(木曜日)__
+
+I think we had already in Bethly route.
+
+![](https://i.imgur.com/9UmeVPG.png
+)
+
+Bethly would move back to Canada when she finished middle school.
+
+__04/12(水曜日)__
+
+What? Didn't you fast-forward too fast? Where was the New Year event?
+
+<ruby>雪兎<rt>ゆきと</rt></ruby> had already falled in love with Bethly but he decided to keep it for himself only and was not going to tell his feeling to Bethly.
+
+We got a glimpse of <ruby>雪兎<rt>ゆきと</rt></ruby>'s past about why <ruby>雪兎<rt>ゆきと</rt></ruby> became いい子. I was still not clear about why did まりあ decide to divorce. I think we might get to explore that in the other routes little by little.
+
+__04/13(木曜日)__
+
+It seemed that everyone realized that 雪兎はベスリーのことが好き.
+
+__04/28(金曜日)__
+
+> ベスリー:　雪だるま、作ろう？
+
+```
+x いいな
+  この量じゃ無理じゃないか？
+```
+
+<ruby>雪兎<rt>ゆきと</rt></ruby> told his feeling to Bethly.
+
+__05/08(月曜日)__
+
+Bethly turned 雪兎 down. Everyone came afteward. I think everyone would try to hook Bethly and 雪兎 up.
+
+__06/07(水曜日)__
+
+__12/11__
+
+雪兎 asked his parent about something. I guessed it would be something like turn their house into a place for foreign students to stay.
+
+That day, Bethly was happy about something. She was about to tell everyone during the ワンルーム学級. It wouldn't be a surprise that Bethly found a way to stay in Japan after middle school. Would Bethly move into 雪兎's house?
+
+Nope, Bethly wanted to hold a Chrismas party.
+
+__12/25__
+
+![](https://i.imgur.com/taIVXXV.png)
+
+__02/27__
+
+雪兎 was going to Canada after graduating middle school.
+
+It seemed that 雪兎 was not going to Canada because he failed "some exams"?.
+
+Bethly's flight was cancelled. Nice, writers. You had done your jobs as always. What else should I say? Bethly was really cool after saying those things.
+
+Well, Bethly's flight resumed the following day. Bethly and 雪兎 slept on the bench (at the airport) that day.
+
+## Bethly School
+
+Starting a new chapter. High school arc.
+
+__02/14__
+
+What? A year had passed.
+
+雪兎 and 名白椛 were in the same club in their first year at high school. 名白椛の制服 looked pretty lame. I guessed that why 椛 in the opening with more clothes than just her 制服 looked much more attractive than the others.
+
+The dialog mentioned 遥か here.
+
+__04/12 - 高校二年__
+
+![](https://i.imgur.com/KrLlguq.png)
+
+__04/14 - 日曜日 - 高校二年__
+
+Bethly wore the 制服 on Sunday to go on a date with 雪兎. So this was "that day". Nope, it wasn't.
+
+The 高校制服 is the most lame outfit for all the heroines in this title. Why all the other outfits look fine but not the 高校制服? The 高校制服's shirt (not skirt) is too short. Well, they fixed that problem with the 月かな title. <ruby>灯華<rt>とうか</rt></ruby> is gorgeous in her 制服.
+
+雪兎 was the one to ask Bethly to wear 制服. 雪兎 - you got trash taste there.
+
+雪兎は悪い子なっちゃった
+
+__05/25 - <ruby>土曜日<rt>どようび</rt></ruby> - <ruby>高校二年<rt>こうこうにねん</rt></ruby>__
+
+<ruby>雪兎<rt>ゆきと</rt></ruby> and Bethly came to the (public) pool. <ruby>雪兎<rt>ゆきと</rt></ruby> taught Bethly to swim. <ruby>雪兎<rt>ゆきと</rt></ruby> was having trouble with his libido lately because he and Bethly were flirting with each others a lots lately. I wondered how would Bethly react when she knows about it.
+
+![](https://i.imgur.com/rbsOP1W.png)
+
+Bethly and <ruby>雪兎<rt>ゆきと</rt></ruby> rented some DVDs on their way home. Bethly's English is really annoying. I can read the quote myself but when I heard Bethly read it, I didn't want to even look at the sentence. All the heroines's (expect for <ruby>雪月<rt>ゆずき</rt></ruby>'s) breast were getting too big in high school.
+
+__05/27 - <ruby>月曜日<rt>げつようび</rt></ruby> - <ruby>高校二年<rt>こうこうにねん</rt></ruby>__
+
+Bethly came to the <ruby>図書館<rt>としょかん</rt></ruby> to borrow some books (probably to learn about sexual intercouse).
+
+__05/28 - <ruby>火曜日<rt>かようび</rt></ruby> - <ruby>高校二年<rt>こうこうにねん</rt></ruby>__
+
+<ruby>放課後<rt>ほうかご</rt></ruby>
+
+ももちゃん先生 was waiting for Bethly as Bethly asked ももちゃん先生 for (sex education) <ruby>相談<rt>そうだん</rt></ruby>. <ruby>雪兎<rt>ゆきと</rt></ruby> came there before Bethly and made the situation a little awkward when Bethly came.
+
+Bethly bought a <ruby>貯金箱<rt>ちょきんばこ</rt></ruby> to save up for ピル (birth-control pill). These teenagers got their shit together. I wondered that would every other heroines going to takle this problem. I think one is enough.
+
+__06/10　- <ruby>月曜日<rt>げつようび</rt></ruby> - <ruby>高校二年<rt>こうこうにねん</rt></ruby>__
+
+<ruby>雪兎<rt>ゆきと</rt></ruby> thought that Bethly and he would need around 一万円 ($100). <ruby>雪兎<rt>ゆきと</rt></ruby> realized that he was going to need to find a part-time job as their saving progress was quite slow. Bethly also wanted to find a part-time job but her position as an exchange student did not allow her to do so.
+
+__06/28 - <ruby>金曜日<rt>きんようび</rt></ruby> - <ruby>高校二年<rt>こうこうにねん</rt></ruby>__
+
+<ruby>雪兎<rt>ゆきと</rt></ruby> got contact about his part-time job.
+
+__06/29 - <ruby>土曜日<rt>どようび</rt></ruby> - <ruby>高校二年<rt>こうこうにねん</rt></ruby>__
+
+<ruby>翌日<rt>よくじつ</rt></ruby>
+
+<ruby>雪兎<rt>ゆきと</rt></ruby> came home at night and looked very tired (from his (part-time) job) that day. It seemed that <ruby>雪兎<rt>ゆきと</rt></ruby> took up a labour-heavy work. <ruby>雪兎<rt>ゆきと</rt></ruby> was very tired that day and fell asleep when Bethly was out for a moment.
+
+__07/01 - <ruby>月曜日<rt>げつようび</rt></ruby> - <ruby>高校二年<rt>こうこうにねん</rt></ruby>__
+
+No Bethly, <ruby>雪兎<rt>ゆきと</rt></ruby> just needed to pour cold water to that place and it will calm down. Bethly, you were making the matter worse if anyone came to <ruby>雪兎<rt>ゆきと</rt></ruby>'s room because the two of you were up there for too long.
+
+__07/04 - <ruby>木曜日<rt>もくようび</rt></ruby> - <ruby>高校二年<rt>こうこうにねん</rt></ruby>__
+
+__07/15 - <ruby>月曜日<rt>げつようび</rt></ruby> - <ruby>高校二年<rt>こうこうにねん</rt></ruby>__
+
+__09/16 - <ruby>月曜日<rt>げつようび</rt></ruby> - <ruby>高校二年<rt>こうこうにねん</rt></ruby>__
+
+It had been around three months already. They saved up around 二万五千円.
+
+__09/22 - <ruby>日曜日<rt>にちようび</rt></ruby> - <ruby>高校二年<rt>こうこうにねん</rt></ruby>__
+
+Bethly brought 6 months worth of birth-control pills. Starting the following week, <ruby>雪兎<rt>ゆきと</rt></ruby> and Bethly were going to have a lots to do. They had 五千円 left.
+
+__09/23 - <ruby>月曜日<rt>げつようび</rt></ruby> - <ruby>高校二年<rt>こうこうにねん</rt></ruby>__
+
+__09/30 - <ruby>月曜日<rt>げつようび</rt></ruby> - <ruby>高校二年<rt>こうこうにねん</rt></ruby>__
+
+<ruby>雪兎<rt>ゆきと</rt></ruby>'s parent would not come home that day. <ruby>雪月<rt>ゆずき</rt></ruby> would stay at <ruby>雛多<rt>ひなた</rt></ruby>'s place that day too. That day was the day.
