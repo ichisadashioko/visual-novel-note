@@ -580,3 +580,15 @@ __09/23 - <ruby>月曜日<rt>げつようび</rt></ruby> - <ruby>高校二年<rt
 __09/30 - <ruby>月曜日<rt>げつようび</rt></ruby> - <ruby>高校二年<rt>こうこうにねん</rt></ruby>__
 
 <ruby>雪兎<rt>ゆきと</rt></ruby>'s parent would not come home that day. <ruby>雪月<rt>ゆずき</rt></ruby> would stay at <ruby>雛多<rt>ひなた</rt></ruby>'s place that day too. That day was the day.
+
+__10/16 - <ruby>高校二年<rt>こうこうにねん</rt></ruby>__
+
+__10/24 - <ruby>木曜日<rt>もくようび</rt></ruby> - <ruby>高校二年<rt>こうこうにねん</rt></ruby>__
+
+The club was about to host Halloween party at <ruby>雪兎<rt>ゆきと</rt></ruby>'s house.
+
+__10/31 - <ruby>木曜日<rt>もくようび</rt></ruby> - <ruby>高校二年<rt>こうこうにねん</rt></ruby>__
+
+そして、ハロウィン当日
+
+Bethly scared the heck out of every other heroines.
