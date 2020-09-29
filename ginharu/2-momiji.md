@@ -268,3 +268,41 @@ __05/03 - <ruby>金曜日<rt>きんようび</rt></ruby> - <ruby>高校二年<rt
 雪兎 and 椛 went a date that day. They all knew that they were going to have sex that day. Because of that, they were so nervous during their date. When 雪兎 and 椛 came to the 公園 for 花見, the flowers still hadn't bloomed. That sounded a little awkward as that was the "main" reason for their date that day. 椛 was trying her best to hide her 不安 during their date. 雪兎 was thinking about 椛 too much to the point that he didn't remember much about their conversation during their date.
 
 雪兎 invited 椛 to his room. そして、エッチしました。
+
+__05/07 - <ruby>高校二年<rt>こうこうにねん</rt></ruby>__
+
+椛 and 雪兎 had a lot of sex during the last 4 days. 椛 and 雪兎 did it from morning till evening in one day. <ruby>雪月<rt>ゆづき</rt></ruby> seemed to hear 椛's and 雪兎's voice while they were having sex as .
+
+__05/15 - <ruby>高校三年<rt>こうこうさんねん</rt></ruby>__
+
+<ruby>榊<rt>さかき</rt>朱音<rt>あかね</ruby> pointed out that 雪兎 was doing everything for 椛のため. Because of that, 雪兎 started to consider what was his goal (without 椛). I think 雪兎 will struggle to deal with this problem.
+
+__09/22 - <ruby>高校三年<rt>こうこうさんねん</rt></ruby>__
+
+椛 decided change the script even though there was only a month left. 椛 would have the single week left to complete the new script. I wonder how would 雪兎 support 椛 in this mess. I think this event would change their relation a lots.
+
+椛 herself cried about her crazy idea on 雪兎 afterward.
+
+__09/25 - <ruby>高校三年<rt>こうこうさんねん</rt></ruby>__
+
+椛 was acting very strange and clumsy lately. It seemed that 椛 was trying her best to write the new script.
+
+![](https://i.imgur.com/sBZ3wD5.png)
+
+椛 collapsed during <ruby>練習<rt>れんしゅう</rt></ruby>. Luckily, 雪兎 was there to support 椛 before she falled on the ground. It seemed 椛 was reaching her physical and mental limit. Everyone in the <ruby>演劇部<rt>えんげきぶ</rt></ruby> forced 椛 to rest for the day. <ruby>親切<rt>しんせつ</rt>な<rt></rt>仲間<rt>なかま</rt>たちね</ruby>. 雪兎 then carried 椛 on his back to the <ruby>保健室<rt>ほけんしつ</rt></ruby>. 雪兎 and <ruby>榊<rt>さかき</rt>朱音<rt>あかね</rt></ruby> were going to help 椛 with the new script.
+
+雪兎 was kind of black out. 雪兎's vision was filled with まりあ's store. 雪兎 got an idea to "merge the last three scenes". It seemed that they were going to use the old script. 雪兎 was going use まりあ's violin for something? まりあ was playing the song コイイロセイカイ. However, that <ruby>曲<rt>きょく</rt></ruby> did not have any <ruby>歌詞<rt>かし</rt></ruby>. 雪兎 was going to write <ruby>歌詞<rt>かし</rt></ruby> for that <ruby>曲<rt>きょく</rt></ruby>.
+
+__09/26 - <ruby>土曜日<rt>どようび</rt></ruby> - <ruby>高校三年<rt>こうこうさんねん</rt></ruby>__
+
+雪兎 did not produce any <ruby>歌詞<rt>かし</rt></ruby> that day.
+
+__09/27 - <ruby>日曜日<rt>にちようび</rt></ruby> - <ruby>高校三年<rt>こうこうさんねん</rt></ruby>__
+
+雪兎 came to まりあ for advices. まりあ then told 雪兎 about her イメージ when she made that <ruby>曲<rt>きょく</rt></ruby>. <ruby>恋<rt>こい</rt>と<rt></rt>芽吹<rt>めぶ</rt>き</ruby>.
+
+__10/12 - <ruby>高校三年<rt>こうこうさんねん</rt></ruby>__
+
+大会の当日
+
+They were <ruby>最優秀賞<rt>さいゆうしゅうしょう</ruby> (first place locally?).
