@@ -306,3 +306,47 @@ __10/12 - <ruby>高校三年<rt>こうこうさんねん</rt></ruby>__
 大会の当日
 
 They were <ruby>最優秀賞<rt>さいゆうしゅうしょう</ruby> (first place locally?).
+
+__12/03 - <ruby>高校三年<rt>こうこうさんねん</rt></ruby>__
+
+雪兎 and 椛 were going to take exam for college. I have no idea what 雪兎 was talking about. <ruby>幸<rt>しあわ</rt>せの<rt></rt>形<rt>かたち</rt>を<rt></rt>伝<rt>つた</rt>えられる<rt></rt>人間<rt>にんげん</rt>になりたい</ruby>?
+
+雪兎 saw that 椛 was going to 東京大学.
+
+__12/24 - <ruby>高校三年<rt>こうこうさんねん</rt></ruby>__
+
+![](https://i.imgur.com/8qoEdI4.png)
+
+雪兎 decided to attend college at 東京 with 椛.
+
+雪兎 gave 椛 a ring as Chrismas present.
+
+__03/01 - <ruby>高校三年<rt>こうこうさんねん</rt></ruby>__
+
+![](https://i.imgur.com/kf10kQN.png)
+
+# Momiji After
+
+__02/20 - 3 year(s) after high school__
+
+雪兎 was wating for 椛 at the airport. Nope, 雪兎 and 椛 were waiting for their luggage. It had been around half a year since the last time they came back to <ruby>幌路<rt>ほろろ</rt></ruby>. 雪兎 and 椛 brought a lot of <ruby>お<rt></rt>土産<rt>みやげ</rt></ruby> with them.
+
+It seemed that 雪兎 and 椛 had graduated from their university.
+
+椛 received a phone call. That sounded like job-related stuffs. <ruby>椛<rt>もみじ</rt>の<rt></rt>脚本<rt>きゃくほん</rt></ruby> has been selected or something likes that. Nope, 椛 got a job to write <ruby>脚本<rt>きゃくほん</rt></ruby> (for a show?).
+
+椛's hair had grown over her shoulders. とても綺麗です. 雪兎 and 椛 got into small fight with each others about little things more often than during high school.
+
+雪兎 and 椛's parents were worried about 椛's job as <ruby>脚本家<rt>きゃくほんか</rt></ruby>. I love how toneworks put their own professional experience in these works. 椛 herself was also worried about her career.
+
+__2023/02/21__
+
+__2023/10/21__
+
+That day was 椛の誕生日.
+
+<ruby>榊<rt>さかき</rt>朱音<rt>あかね</rt></ruby> invited 椛 to join <ruby>朱音<rt>あかね</rt>の<rt></rt>舞台<rt>ぶたい</rt></ruby>. 雪兎 told 椛 to come back to <ruby>幌路<rt>ほろろ</rt></ruby> together to help 椛 achieve her dream. 雪兎 and 椛 were going to graduate college around six months later. 椛 was really happy when 雪兎 told her about coming back to <ruby>幌路<rt>ほろろ</rt></ruby>. 椛 then rushed 雪兎 to come back to their home together in order to give her the best present for the day.
+
+__2024/03/27__
+
+雪兎 and 椛 moved back to <ruby>幌路<rt>ほろろ</rt></ruby>. 椛 and 雪兎 brought/rented an apartment/house.
