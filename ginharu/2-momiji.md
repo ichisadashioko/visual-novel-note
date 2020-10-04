@@ -349,4 +349,148 @@ That day was 椛の誕生日.
 
 __2024/03/27__
 
-雪兎 and 椛 moved back to <ruby>幌路<rt>ほろろ</rt></ruby>. 椛 and 雪兎 brought/rented an apartment/house.
+雪兎 and 椛 moved back to <ruby>幌路<rt>ほろろ</rt></ruby>. 椛 and 雪兎 brought/rented an apartment/house. <ruby>雛多<rt>ひなた</rt></ruby> brought some 酒 as present for 雪兎 and 椛's new house.
+
+__2024/03/29__
+
+椛 and 雪兎 came to talk with 朱音 about her 舞台. 雪兎 appeared as a musician in this title. 奏汰 in つきかな was a writer.
+
+朱音 and 椛 asked 雪兎 to do quite a lot of things (e.g. create a website, make musics, etc.).
+
+椛 seemed to love alcohol.
+
+After 朱音 left, drunk 椛 changed into <ruby>看護師<rt>かんごし</rt></ruby> costume and had sex with 雪兎.
+
+__2024/06/03__
+
+雪兎 got an office job since April and 椛 worked at a clothing store. They needed to earn some money for their 舞台 that they had talked with 朱音 since March.
+
+椛 was not very good with <ruby>料理<rt>りょうり</rt></ruby>. 椛's first 弁当 for 雪兎 during college was a disaster.
+
+雪兎 was doing his best to support their life at <ruby>幌路<rt>ほろろ</rt></ruby>.
+
+__2024/07/02__
+
+雪兎 had gotten quite busy lately.
+
+__2024/10/01__
+
+A 先輩 at 雪兎's workplace mentioned <ruby>独立<rt>どくりつ</rt></ruby> while chatting with 雪兎. I wonder if this was about 雪兎 was (emotionally) relying on 椛. Oh, the 先輩 was talking about starting one own's business.
+
+__2024/10/03__
+
+After fixing the mess that 雪兎 himself made at work, 雪兎 headed over to holoholo to meet up with 朱音 and 椛.
+
+__2024/11/01__
+
+雪兎, 椛, and 朱音 met up with other people in the 舞台.
+
+__2024/12/10__
+
+椛 welcomed 雪兎 home with a キス.
+
+__2024/12/11 - 木曜日__
+
+雪兎 felt heavy in the moring. It seemed that 雪兎 got sick. 椛 was very firm about forcing 雪兎 to rest for that day. 椛 was also prepare everything to get 雪兎 checked at the <ruby>病院<rt>びょういん</rt></ruby>. It was the first time 雪兎 saw 椛 being worried and mad like that. It was also the first time that 椛 took care of 雪兎 while he was sick.
+
+雪兎 woke up at 2AM in the living room and felt very well. 椛 was sleeping beside 雪兎. 椛、お疲れ.
+
+__2024/12/12 - 金曜日__
+
+When 雪兎 came home at night, 椛 looked very tired. It seemed that 椛 caught 雪兎's cold from taking care of him the day before. 椛 also said that it was no big deal when 雪兎 said he was going to bring her to the hospital.
+
+__2024/12/16 - 火曜日__
+
+雪兎 and 椛 was planing for their date on Chrismas.
+
+__2024/12/24__
+
+椛 and 雪兎 was having a date on Chrismas Eve day. They were about to have some beer. Uh, I really hate alcohol.
+
+It was about 10 years since 椛 and 雪兎 had known each others in that class.
+
+__2025/01/02 - 金曜日__
+
+__2025/01/04__
+
+__2025/01/20__
+
+<ruby>劇団<rt>げきだん</rt>の<rt></rt>名前<rt>なまえ</rt>は<rt></rt>メイプルノート<rt>maple note / 椛音</rt></ruby>.
+
+__2025/02/12__
+
+__2025/03/18__
+
+__2025/03/20__
+
+One <ruby>演者<rt>えんじゃ</rt></ruby> dropped out the day before their performance because that person's dad had health problem. At this rate, they wouldn't able to perform in the following day. 椛 was going to take up the missing role. 椛 and 朱音 asked 雪兎 to replace 椛's role while 椛 was going on the stage.
+
+__2025/03/21 - 土曜日__
+
+Something went wrong while 朱音 and 椛 were on the stage. I think 雪兎 was trying to fix it. The パネル (panel?) was moving not as intended and 雪兎 was trying to stop it before the light came back? 雪兎 decided to skip (that) scene. Luckily, 椛 and 朱音 were able to deal with it. The performance ended peacefully.
+
+__2025/03/23 - 月曜日__
+
+<ruby>劇団<rt>げきだん</rt>たち</ruby> celebrated their successful performance. Even though 椛 was drunk, she still realized 雪兎 was having some thoughts and asked 雪兎 to tell her.
+
+雪兎 told 椛 to wait a little bit longer (for the proposal?).
+
+# after a year (?)
+
+It should be "a year latter". toneworks, please hire a native English speaker.
+
+__2026/02/06__
+
+__2026/02/14__
+
+雪兎 told 椛 that he wanted to leave his office job. 雪兎 worried that he would not able to support 椛 and himself if he quits the office job.
+
+__2026/02/24__
+
+朱音 called 雪兎 out to talk about 雪兎's プロポーズみたいな that 朱音 heard from 椛. I think 朱音 was mad about why 雪兎 didn't propose and marry 椛 but only プロポーズみたいなこと.
+
+__2026/03/05__
+
+The <ruby>劇団<rt>げきだん</rt></ruby>'s next performance would be about <ruby>花嫁<rt>はなよめ</rt></ruby>.
+
+雪兎 deceived 椛 to get 椛 to go home first. 雪兎 and 朱音 were planing something and not letting 椛 knows. Everyone expect for 椛 came to まりあ's store for 朱音's plan about 雪兎 and 椛. Even <ruby>瑞羽<rt>みずは</rt></ruby>, <ruby>雛多<rt>ひなた</rt></ruby> and <ruby>雪月<rt>ゆずき</rt></ruby> also came.
+
+__2026/09/20__
+
+雪兎 and 椛 filled out the <ruby>婚姻届<rt>こんいんとどけ</rt></ruby>. 椛の涙が出した気がする.
+
+__2026/10/16 - 金曜日__
+
+朱音 represented <ruby>劇団員<rt>げきだんいん</rt></ruby> to give 椛 birthday present which contained a bunch of <ruby>エロ<rt></rt下着<rt>したぎ</rt>や<rt></rt>衣装<rt>いしょう</rt></ruby>. Everyone left 椛 and 雪兎 alone before 椛 opened the present. 椛 was so embarrassed when she opened the present.
+
+> 椛 - えっと···せっかくだから、これ今日、使う？
+
+__2026/10/21 - 木曜日__
+
+椛 and 雪兎 held 椛's birthday party at their house with only two of them that year.
+
+__2026/11/21__
+
+椛 invited 雪兎 on a date that day. She got tickets to watch a performace from a 舞台 from 朱音. After that, 椛 and 雪兎 came to the HORO🙂RO place where 雪兎 "confessed" to 椛 in <ruby>中学時代<rt>ちゅうがくじだい</rt></ruby>.
+
+椛 gave 雪兎 his early birthday present (<ruby>スケジュール<rt></rt>帳<rt>ちゅう</rt></ruby>). 椛 had already written something in there.
+
+__2026/12/19__
+
+I would love to see 朱音 hook up with 雪兎 during 椛 route (ハーレム?).
+
+__2026/12/24__
+
+Just how much was 椛's love for <ruby>酒<rt>さけ</rt></ruby>? It's bad for your health, 椛.
+
+When the performance ended, the girls stripped 椛 off to put her in the "wedding" dress. 椛 hadn't known that her wedding was about to be hold.
+
+> 椛 - な、なに···？え、どうしてそんあ格好してるの···？
+
+![](https://i.imgur.com/qS69NsP.png)
+
+> 椛 - わたしを···っ！あなたのお嫁さんに、してくださいっ···！
+
+__銀色、遥か 椛エピローグ__
+
+![](https://i.imgur.com/oWcFRBh.png)
