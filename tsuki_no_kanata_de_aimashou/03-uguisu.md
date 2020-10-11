@@ -396,7 +396,7 @@ x 想いを書く (うぐいす)
 
 副部長 asks うぐいす if there is any other reasons other than her disease that うぐいす does not go out with him. 副部長 suggests that うぐいす is interested in 奏汰. うぐいす didn't actually deny that but replied that 奏汰 is いい後輩. 灯華 and 奏汰 who were hiding in the storage room, intepreted it as that 奏汰 is not going to have much chance to go out with うぐいす.
 
-灯華 invited 奏汰 to the beach for a change. 
+灯華 invited 奏汰 to the beach for a change.
 
 ```
   これでぱっちりでせ！
