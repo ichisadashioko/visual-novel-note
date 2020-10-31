@@ -1,4 +1,4 @@
-What? Name customization? The dialog is going to be very awkward. If it is not, I would appriciate all the 声優たち who did twice the work for the intended experience (the default name). 
+What? Name customization? The dialog is going to be very awkward. If it is not, I would appriciate all the 声優たち who did twice the work for the intended experience (the default name).
 
 The protagonist's name (default name) is <ruby>新見<rt>にいみ</rt>雪兎<rt>ゆきと</rt></ruby>. I hope that the dialog will use this default name instead of あなた or きみ.
 
@@ -16,11 +16,11 @@ __四月十一日（月曜日）__
 
 What? <ruby>新見<rt>にいみ</rt>雪兎<rt>ゆきと</rt></ruby> was only 14 years old.
 
-> <ruby>そして<rt></rt>何<rt>なに</rt>より<rt></rt>今日<rt>きょう</rt>は<rt></rt>妹<rt>いもうと</rt>、<rt></rt>雪月<rt>ゆずき</rt>の<rt></rt>入学式<rt>にゅうがくしき</rt>。</ruby>
+> <ruby>そして<rt></rt>何<rt>なに</rt>より<rt></rt>今日<rt>きょう</rt>は<rt></rt>妹<rt>いもうと</rt>、<rt></rt>雪月<rt>ゆづき</rt>の<rt></rt>入学式<rt>にゅうがくしき</rt>。</ruby>
 
-We have <ruby>石原<rt>いしはら</rt>舞<rt>まい</rt></ruby> to voice <ruby>雪月<rt>ゆずき</rt></ruby>. <ruby>石原<rt>いしはら</rt>舞<rt>まい</rt></ruby> had been streaming a lot of games lately.
+We have <ruby>石原<rt>いしはら</rt>舞<rt>まい</rt></ruby> to voice <ruby>雪月<rt>ゆづき</rt></ruby>. <ruby>石原<rt>いしはら</rt>舞<rt>まい</rt></ruby> had been streaming a lot of games lately.
 
-<ruby>雪月<rt>ゆずき</rt></ruby> was only a year younger than <ruby>雪兎<rt>ゆきと</rt></ruby> so that was probably why she was so reversed to <ruby>雪兎<rt>ゆきと</rt></ruby>. <ruby>雪月<rt>ゆずき</rt></ruby> became <ruby>雪兎<rt>ゆきと</rt>妹<rt>いもうと</rt></ruby> because her mother - <ruby>優子<rt>ゆうこ?</rt></ruby> - married his father. That event was 1 year before.
+<ruby>雪月<rt>ゆづき</rt></ruby> was only a year younger than <ruby>雪兎<rt>ゆきと</rt></ruby> so that was probably why she was so reversed to <ruby>雪兎<rt>ゆきと</rt></ruby>. <ruby>雪月<rt>ゆづき</rt></ruby> became <ruby>雪兎<rt>ゆきと</rt>妹<rt>いもうと</rt></ruby> because her mother - <ruby>優子<rt>ゆうこ?</rt></ruby> - married his father. That event was 1 year before.
 
 <ruby>雪兎<rt>ゆきと</rt></ruby> called <ruby>優子<rt>ゆうこ</rt></ruby> as 優子さん. <ruby>雪兎<rt>ゆきと</rt></ruby>'s father's name is <ruby>恒一<rt>こういち?</rt></ruby>.
 
@@ -28,17 +28,17 @@ Great, others called the protagonist as <ruby>雪兎<rt>ゆきと</rt></ruby>.
 
 While the family was having breakfast, the news on the television announced that <ruby>如月<rt>きさらぎ</rt>瑞羽<rt>みずは</rt></ruby> - a professional skater had come back to the town (<ruby>幌路<rt>ほろろ</rt></ruby>). <ruby>雪兎<rt>ゆきと</rt></ruby> referred <ruby>如月<rt>きさらぎ</rt>瑞羽<rt>みずは</rt></ruby> as <ruby>瑞<rt>みず</rt>ねぇ</ruby>.
 
-<ruby>雪兎<rt>ゆきと</rt></ruby> made a snowman to celebrate <ruby>雪月<rt>ゆずき</rt>の<rt></rt>入学<rt>にゅうがく</rt></ruby> day.
+<ruby>雪兎<rt>ゆきと</rt></ruby> made a snowman to celebrate <ruby>雪月<rt>ゆづき</rt>の<rt></rt>入学<rt>にゅうがく</rt></ruby> day.
 
 ![](https://i.imgur.com/XyLqhGC.png)
 
 ---
 
-<ruby>雪月<rt>ゆずき</rt></ruby> previously lived in a town called <ruby>樽倉<rt>たるくら</rt></ruby> which was 40 kilometers from their house. That day was the first time they go to school together (<ruby>登校<rt>とうこう</rt>する</ruby>). <ruby>雪兎<rt>ゆきと</rt></ruby> and <ruby>雪月<rt>ゆずき</rt></ruby> played しりとり on their way to school.
+<ruby>雪月<rt>ゆづき</rt></ruby> previously lived in a town called <ruby>樽倉<rt>たるくら</rt></ruby> which was 40 kilometers from their house. That day was the first time they go to school together (<ruby>登校<rt>とうこう</rt>する</ruby>). <ruby>雪兎<rt>ゆきと</rt></ruby> and <ruby>雪月<rt>ゆづき</rt></ruby> played しりとり on their way to school.
 
-When they came to the school front, <ruby>雪兎<rt>ゆきと</rt></ruby> received a メール and he was about to leave <ruby>雪月<rt>ゆずき</rt></ruby> alone. I guessed <ruby>雪兎<rt>ゆきと</rt></ruby> was going to <ruby>瑞羽<rt>みずは</rt></ruby>'s place. Nope, <ruby>雪兎<rt>ゆきと</rt></ruby> went to his mother's store. Her name is <ruby>桧崎<rt>ひざき</rt>まりあ</ruby>. <ruby>桧崎<rt>ひざき</rt>まりあ</ruby> had proper illustrations (poor 優子さん). <ruby>桧崎<rt>ひざき</rt>まりあ</ruby> looks like a very beautiful person. I wonder why did they divorce. <ruby>雪兎<rt>ゆきと</rt></ruby> helped まりあ by clearing the snow.
+When they came to the school front, <ruby>雪兎<rt>ゆきと</rt></ruby> received a メール and he was about to leave <ruby>雪月<rt>ゆづき</rt></ruby> alone. I guessed <ruby>雪兎<rt>ゆきと</rt></ruby> was going to <ruby>瑞羽<rt>みずは</rt></ruby>'s place. Nope, <ruby>雪兎<rt>ゆきと</rt></ruby> went to his mother's store. Her name is <ruby>桧崎<rt>ひざき</rt>まりあ</ruby>. <ruby>桧崎<rt>ひざき</rt>まりあ</ruby> had proper illustrations (poor 優子さん). <ruby>桧崎<rt>ひざき</rt>まりあ</ruby> looks like a very beautiful person. I wonder why did they divorce. <ruby>雪兎<rt>ゆきと</rt></ruby> helped まりあ by clearing the snow.
 
-まりあ seemed to be very friendly toward <ruby>雪月<rt>ゆずき</rt></ruby>. I wonder how messy was their family relationship. <ruby>雪兎<rt>ゆきと</rt></ruby> was late for the <ruby>入学式<rt>にゅうがくしき</rt></ruby> and he hadn't known which class he was in yet. The teacher told <ruby>雪兎<rt>ゆきと</rt></ruby> to wait in a room. <ruby>雪兎<rt>ゆきと</rt></ruby> met a blonde hair girl there (third heroine appeared) - <ruby>転校生<rt>てんこうせい</rt>さん</ruby>.
+まりあ seemed to be very friendly toward <ruby>雪月<rt>ゆづき</rt></ruby>. I wonder how messy was their family relationship. <ruby>雪兎<rt>ゆきと</rt></ruby> was late for the <ruby>入学式<rt>にゅうがくしき</rt></ruby> and he hadn't known which class he was in yet. The teacher told <ruby>雪兎<rt>ゆきと</rt></ruby> to wait in a room. <ruby>雪兎<rt>ゆきと</rt></ruby> met a blonde hair girl there (third heroine appeared) - <ruby>転校生<rt>てんこうせい</rt>さん</ruby>.
 
 From my experience with 月かな, the first option will contribute to this girl route. And those early choices often do not affect other heroines' routes.
 
@@ -79,17 +79,17 @@ After school, <ruby>雪兎<rt>ゆきと</rt></ruby> came to meet <ruby>如月<rt
 
 ---
 
-While <ruby>雪兎<rt>ゆきと</rt></ruby> was waiting for <ruby>雪月<rt>ゆずき</rt></ruby> after school, he saw a first year girl and she knew <ruby>雪兎<rt>ゆきと</rt></ruby>'s name.
+While <ruby>雪兎<rt>ゆきと</rt></ruby> was waiting for <ruby>雪月<rt>ゆづき</rt></ruby> after school, he saw a first year girl and she knew <ruby>雪兎<rt>ゆきと</rt></ruby>'s name.
 
 ![](https://i.imgur.com/9EtqrRQ.png)
 
-The girl's name is <ruby>蒼井<rt>あおい</rt>雛多<rt>ひなた</rt></ruby>. <ruby>蒼井<rt>あおい</rt>雛多<rt>ひなた</rt></ruby> is <ruby>雪月<rt>ゆずき</rt></ruby>'s classmate. <ruby>蒼井<rt>あおい</rt>雛多<rt>ひなた</rt></ruby> wanted to go home together with <ruby>雪月<rt>ゆずき</rt></ruby>. However, <ruby>雪兎<rt>ゆきと</rt></ruby> and <ruby>雪月<rt>ゆずき</rt></ruby> were about to go to まりあ's store. Three of them went there. The family did have to explain their family relationship to <ruby>蒼井<rt>あおい</rt>雛多<rt>ひなた</rt></ruby>.
+The girl's name is <ruby>蒼井<rt>あおい</rt>雛多<rt>ひなた</rt></ruby>. <ruby>蒼井<rt>あおい</rt>雛多<rt>ひなた</rt></ruby> is <ruby>雪月<rt>ゆづき</rt></ruby>'s classmate. <ruby>蒼井<rt>あおい</rt>雛多<rt>ひなた</rt></ruby> wanted to go home together with <ruby>雪月<rt>ゆづき</rt></ruby>. However, <ruby>雪兎<rt>ゆきと</rt></ruby> and <ruby>雪月<rt>ゆづき</rt></ruby> were about to go to まりあ's store. Three of them went there. The family did have to explain their family relationship to <ruby>蒼井<rt>あおい</rt>雛多<rt>ひなた</rt></ruby>.
 
 ---
 
-<ruby>雪月<rt>ゆずき</rt></ruby> and <ruby>雪兎<rt>ゆきと</rt></ruby> had dinner together. Their parents were late on that day.
+<ruby>雪月<rt>ゆづき</rt></ruby> and <ruby>雪兎<rt>ゆきと</rt></ruby> had dinner together. Their parents were late on that day.
 
-The choices' meaning is so fuzzy. The second option looked like <ruby>雪兎<rt>ゆきと</rt></ruby> would treat <ruby>雪月<rt>ゆずき</rt></ruby> as 妹 only.
+The choices' meaning is so fuzzy. The second option looked like <ruby>雪兎<rt>ゆきと</rt></ruby> would treat <ruby>雪月<rt>ゆづき</rt></ruby> as 妹 only.
 
 ```
   いいに決まってるだろ？
@@ -113,13 +113,13 @@ x 是非すぐに見せてほし
 
 <ruby>放課後<rt>ほうかご</rt></ruby>
 
-<ruby>雪兎<rt>ゆきと</rt></ruby>, <ruby>雪月<rt>ゆずき</rt></ruby> and <ruby>蒼井<rt>あおい</rt>雛多<rt>ひなた</rt></ruby> came to the skating ground. <ruby>雪兎<rt>ゆきと</rt></ruby> still called <ruby>如月<rt>きさらぎ</rt>瑞羽<rt>みずは</rt></ruby> using her last name and she was still annoyed by that. 二人まだ仲直りをした.
+<ruby>雪兎<rt>ゆきと</rt></ruby>, <ruby>雪月<rt>ゆづき</rt></ruby> and <ruby>蒼井<rt>あおい</rt>雛多<rt>ひなた</rt></ruby> came to the skating ground. <ruby>雪兎<rt>ゆきと</rt></ruby> still called <ruby>如月<rt>きさらぎ</rt>瑞羽<rt>みずは</rt></ruby> using her last name and she was still annoyed by that. 二人まだ仲直りをした.
 
 We had a flaskback about <ruby>雪兎<rt>ゆきと</rt></ruby>, <ruby>如月<rt>きさらぎ</rt>瑞羽<rt>みずは</rt></ruby>, and <ruby>桧崎<rt>ひざき</rt>まりあ</ruby>.
 
 ---
 
-<ruby>雪月<rt>ゆずき</rt></ruby> remembered back about when she first met <ruby>雪兎<rt>ゆきと</rt></ruby>.
+<ruby>雪月<rt>ゆづき</rt></ruby> remembered back about when she first met <ruby>雪兎<rt>ゆきと</rt></ruby>.
 
 ---
 
@@ -162,7 +162,7 @@ x 俺も会いたかった
 
 __<ruby>四月<rt>よんがつ</rt>十六日<rt>じゅうろくにち</rt>（<rt></rt>土曜日<rt>どようび</rt>）</ruby>__
 
-<ruby>雛多<rt>ひなた</rt></ruby> was coming to <ruby>雪兎<rt>ゆきと</rt></ruby>'s house (probably to play with <ruby>雪月<rt>ゆずき</rt></ruby>).
+<ruby>雛多<rt>ひなた</rt></ruby> was coming to <ruby>雪兎<rt>ゆきと</rt></ruby>'s house (probably to play with <ruby>雪月<rt>ゆづき</rt></ruby>).
 
 I wanted to meet some other heroine. My first priority was <ruby>椛<rt>もみじ</rt></ruby>.
 
@@ -173,7 +173,7 @@ x 牛乳を買いに行く
 
 Nope, that was fast. No encounter happened.
 
-When <ruby>雪兎<rt>ゆきと</rt></ruby> brought the drink for <ruby>瑞羽<rt>みずは</rt></ruby> and <ruby>雛多<rt>ひなた</rt></ruby>, he heard <ruby>雪月<rt>ゆずき</rt>のエロ声</ruby>.
+When <ruby>雪兎<rt>ゆきと</rt></ruby> brought the drink for <ruby>瑞羽<rt>みずは</rt></ruby> and <ruby>雛多<rt>ひなた</rt></ruby>, he heard <ruby>雪月<rt>ゆづき</rt>のエロ声</ruby>.
 
 <ruby>雛多<rt>ひなた</rt></ruby> was so focus on the マンガ and didn't notice that her パンツ was revealing.
 
@@ -217,7 +217,7 @@ __04/23(土曜日)__
 
 __04/25(月曜日)__
 
-<ruby>雪兎<rt>ゆきと</rt></ruby> was luring <ruby>雪月<rt>ゆずき</rt></ruby> into his ultimate harem plan.
+<ruby>雪兎<rt>ゆきと</rt></ruby> was luring <ruby>雪月<rt>ゆづき</rt></ruby> into his ultimate harem plan.
 
 ```
 x 雪月にも参加してほしいんだ
@@ -247,7 +247,7 @@ __05/04(水曜日)__
 
 <ruby>如月<rt>きさらぎ</rt>瑞羽<rt>みずは</rt></ruby>'s coach saw <ruby>雪兎<rt>ゆきと</rt></ruby>'s flyer that <ruby>瑞羽<rt>みずは</rt></ruby> was crying with and got her to talk about it.
 
-<ruby>雪月<rt>ゆずき</rt></ruby> left a thank you note on <ruby>雪兎<rt>ゆきと</rt></ruby>'s clothes while he was taking a bath.
+<ruby>雪月<rt>ゆづき</rt></ruby> left a thank you note on <ruby>雪兎<rt>ゆきと</rt></ruby>'s clothes while he was taking a bath.
 
 Bethly looked at her mother paintings with her dad. Bethly had flashback about her mother and she were playing under the snow together.
 
@@ -270,9 +270,9 @@ x 気になります
 
 __05/10__
 
-<ruby>雪兎<rt>ゆきと</rt></ruby> got permission to come to Bethly's house. <ruby>雪兎<rt>ゆきと</rt></ruby> and <ruby>雪月<rt>ゆずき</rt></ruby> then came to Bethly's house. They met Bethly's dad - Brian. It seemed that Bethly was not going to show herself. <ruby>雪兎<rt>ゆきと</rt></ruby> invited Brian to まりあ's store.
+<ruby>雪兎<rt>ゆきと</rt></ruby> got permission to come to Bethly's house. <ruby>雪兎<rt>ゆきと</rt></ruby> and <ruby>雪月<rt>ゆづき</rt></ruby> then came to Bethly's house. They met Bethly's dad - Brian. It seemed that Bethly was not going to show herself. <ruby>雪兎<rt>ゆきと</rt></ruby> invited Brian to まりあ's store.
 
-まりあ, <ruby>雪兎<rt>ゆきと</rt></ruby> and <ruby>雪月<rt>ゆずき</rt></ruby> made some pancakes for Bethly before Brian came home. Bethly realized <ruby>雪兎<rt>ゆきと</rt>の<rt></rt>下手<rt>へた</rt>な<rt></rt>絵<rt>え</rt></ruby> that he drew on the pancakes.
+まりあ, <ruby>雪兎<rt>ゆきと</rt></ruby> and <ruby>雪月<rt>ゆづき</rt></ruby> made some pancakes for Bethly before Brian came home. Bethly realized <ruby>雪兎<rt>ゆきと</rt>の<rt></rt>下手<rt>へた</rt>な<rt></rt>絵<rt>え</rt></ruby> that he drew on the pancakes.
 
 __05/12(木曜日)__
 
@@ -286,11 +286,11 @@ All the heroines went to the <ruby>ワンルーム<rt></rt>学級<rt>がっき�
 
 __05/15(日曜日)__
 
-It seemed that the group would climb the mountain that <ruby>雪兎<rt>ゆきと</rt></ruby> presented at the <ruby>ワンルーム<rt></rt>がっきゅう<rt></ruby> the other day. <ruby>雪月<rt>ゆずき</rt></ruby> was too excited for it so she didn't have much sleep the night before. <ruby>雪兎<rt>ゆきと</rt></ruby> and <ruby>雪月<rt>ゆずき</rt></ruby> helped <ruby>優子<rt>ゆうこ</rt></ruby> make <ruby>弁当<rt>べんとう</rt></ruby> for the trip that day. They made enough for 7 people (雪兎 (1), <ruby>雪月<rt>ゆずき</rt></ruby> (2), <ruby>雛多<rt>ひなた</rt></ruby> (3), <ruby>椛<rt>もみじ</rt></ruby> (4), Bethly (5), <ruby>瑞羽<rt>みずは</rt></ruby> (6), ももちゃん先生 (7)).
+It seemed that the group would climb the mountain that <ruby>雪兎<rt>ゆきと</rt></ruby> presented at the <ruby>ワンルーム<rt></rt>がっきゅう<rt></ruby> the other day. <ruby>雪月<rt>ゆづき</rt></ruby> was too excited for it so she didn't have much sleep the night before. <ruby>雪兎<rt>ゆきと</rt></ruby> and <ruby>雪月<rt>ゆづき</rt></ruby> helped <ruby>優子<rt>ゆうこ</rt></ruby> make <ruby>弁当<rt>べんとう</rt></ruby> for the trip that day. They made enough for 7 people (雪兎 (1), <ruby>雪月<rt>ゆづき</rt></ruby> (2), <ruby>雛多<rt>ひなた</rt></ruby> (3), <ruby>椛<rt>もみじ</rt></ruby> (4), Bethly (5), <ruby>瑞羽<rt>みずは</rt></ruby> (6), ももちゃん先生 (7)).
 
 ---
 
-<ruby>雪兎<rt>ゆきと</rt></ruby> and <ruby>雪月<rt>ゆずき</rt></ruby> were the first ones to be at the gathering location. <ruby>雛多<rt>ひなた</rt></ruby> was being ナンパ.
+<ruby>雪兎<rt>ゆきと</rt></ruby> and <ruby>雪月<rt>ゆづき</rt></ruby> were the first ones to be at the gathering location. <ruby>雛多<rt>ひなた</rt></ruby> was being ナンパ.
 
 The 彼女 option sounded fun.
 
@@ -352,9 +352,9 @@ x ベスリー
 
 __05/23(月曜日)__
 
-It was about <ruby>雪月<rt>ゆずき</rt></ruby> turn to present.
+It was about <ruby>雪月<rt>ゆづき</rt></ruby> turn to present.
 
-<ruby>雪月<rt>ゆずき</rt></ruby> and <ruby>雪兎<rt>ゆきと</rt></ruby> were looking through some sweets to prepare for the next <ruby>ワンルーム<rt></rt>学級<rt>がっきゅう</rt></ruby>.
+<ruby>雪月<rt>ゆづき</rt></ruby> and <ruby>雪兎<rt>ゆきと</rt></ruby> were looking through some sweets to prepare for the next <ruby>ワンルーム<rt></rt>学級<rt>がっきゅう</rt></ruby>.
 
 ```
 x 雪月が作れるモノを選ぼう
@@ -363,13 +363,13 @@ x 雪月が作れるモノを選ぼう
 
 __05/24(火曜日)__
 
-<ruby>雪月<rt>ゆずき</rt></ruby> will present at the <ruby>ワンルーム<rt></rt>学級<rt>がっきゅう</rt></ruby>.
+<ruby>雪月<rt>ゆづき</rt></ruby> will present at the <ruby>ワンルーム<rt></rt>学級<rt>がっきゅう</rt></ruby>.
 
-<ruby>雪月<rt>ゆずき</rt></ruby> starts off with a very <ruby>敬語<rt>けいご</rt></ruby> speech as she is so nervous. <ruby>雪月<rt>ゆずき</rt></ruby> introduces that マドレーヌ is originated from France. Everyone (the heroines) seems to take an interest in <ruby>雪月<rt>ゆずき</rt></ruby> idea and moves to the next to class to make マドレーヌ.
+<ruby>雪月<rt>ゆづき</rt></ruby> starts off with a very <ruby>敬語<rt>けいご</rt></ruby> speech as she is so nervous. <ruby>雪月<rt>ゆづき</rt></ruby> introduces that マドレーヌ is originated from France. Everyone (the heroines) seems to take an interest in <ruby>雪月<rt>ゆづき</rt></ruby> idea and moves to the next to class to make マドレーヌ.
 
-While making the cake, <ruby>雪月<rt>ゆずき</rt></ruby> has so much fun and she is about to call <ruby>雪兎<rt>ゆきと</rt></ruby> お兄ちゃん but she stops.
+While making the cake, <ruby>雪月<rt>ゆづき</rt></ruby> has so much fun and she is about to call <ruby>雪兎<rt>ゆきと</rt></ruby> お兄ちゃん but she stops.
 
-<ruby>雪月<rt>ゆずき</rt></ruby> was able to say お兄ちゃん to <ruby>雪兎<rt>ゆきと</rt></ruby> that night. <ruby>雪兎<rt>ゆきと</rt></ruby> was overjoyed and hugged <ruby>雪月<rt>ゆずき</rt></ruby>.
+<ruby>雪月<rt>ゆづき</rt></ruby> was able to say お兄ちゃん to <ruby>雪兎<rt>ゆきと</rt></ruby> that night. <ruby>雪兎<rt>ゆきと</rt></ruby> was overjoyed and hugged <ruby>雪月<rt>ゆづき</rt></ruby>.
 
 __05/25(水曜日)__
 
@@ -391,7 +391,7 @@ The opening movie rolled out. <ruby>椛<rt>もみじ</rt></ruby> seemed to be th
 
 __06/08(水曜日)__
 
-The day started at <ruby>雪兎<rt>ゆきと</rt></ruby>'s house where he and <ruby>雪月<rt>ゆずき</rt></ruby> were preparing to go to school. That day was too warm but they still "have to" wear the winter <ruby>制服<rt>せいふく</rt></ruby> until June 20th.
+The day started at <ruby>雪兎<rt>ゆきと</rt></ruby>'s house where he and <ruby>雪月<rt>ゆづき</rt></ruby> were preparing to go to school. That day was too warm but they still "have to" wear the winter <ruby>制服<rt>せいふく</rt></ruby> until June 20th.
 
 Middle-school pool arc?
 
@@ -443,8 +443,7 @@ __12/22(木曜日)__
 
 I think we had already in Bethly route.
 
-![](https://i.imgur.com/9UmeVPG.png
-)
+![](https://i.imgur.com/9UmeVPG.png)
 
 Bethly would move back to Canada when she finished middle school.
 
@@ -531,7 +530,7 @@ __05/25 - <ruby>土曜日<rt>どようび</rt></ruby> - <ruby>高校二年<rt>�
 
 ![](https://i.imgur.com/rbsOP1W.png)
 
-Bethly and <ruby>雪兎<rt>ゆきと</rt></ruby> rented some DVDs on their way home. Bethly's English is really annoying. I can read the quote myself but when I heard Bethly read it, I didn't want to even look at the sentence. All the heroines's (expect for <ruby>雪月<rt>ゆずき</rt></ruby>'s) breast were getting too big in high school.
+Bethly and <ruby>雪兎<rt>ゆきと</rt></ruby> rented some DVDs on their way home. Bethly's English is really annoying. I can read the quote myself but when I heard Bethly read it, I didn't want to even look at the sentence. All the heroines's (expect for <ruby>雪月<rt>ゆづき</rt></ruby>'s) breast were getting too big in high school.
 
 __05/27 - <ruby>月曜日<rt>げつようび</rt></ruby> - <ruby>高校二年<rt>こうこうにねん</rt></ruby>__
 
@@ -579,7 +578,7 @@ __09/23 - <ruby>月曜日<rt>げつようび</rt></ruby> - <ruby>高校二年<rt
 
 __09/30 - <ruby>月曜日<rt>げつようび</rt></ruby> - <ruby>高校二年<rt>こうこうにねん</rt></ruby>__
 
-<ruby>雪兎<rt>ゆきと</rt></ruby>'s parent would not come home that day. <ruby>雪月<rt>ゆずき</rt></ruby> would stay at <ruby>雛多<rt>ひなた</rt></ruby>'s place that day too. That day was the day.
+<ruby>雪兎<rt>ゆきと</rt></ruby>'s parent would not come home that day. <ruby>雪月<rt>ゆづき</rt></ruby> would stay at <ruby>雛多<rt>ひなた</rt></ruby>'s place that day too. That day was the day.
 
 __10/16 - <ruby>高校二年<rt>こうこうにねん</rt></ruby>__
 
@@ -592,3 +591,55 @@ __10/31 - <ruby>木曜日<rt>もくようび</rt></ruby> - <ruby>高校二年<rt
 そして、ハロウィン当日
 
 Bethly scared the heck out of every other heroines.
+
+The halloween party ended and everyone went back to their home. <ruby>雪月<rt>ゆづき</rt></ruby> was tired from that day and went to sleep early.
+
+After cleaning, Bethly told 雪兎 that she also brought a 可愛いコスチューム. そして、エッチな気分になりました。
+
+__11/12 - <ruby>火曜日<rt>かようび</rt></ruby> - <ruby>高校二年<rt>こうこうにねん</rt></ruby>__
+
+<ruby>百々花<rt>ももか</rt>先生<rt>せんせい</rt></ruby> told 雪兎 that the school allowed the club to "hire" <ruby>合宿<rt>がっしゅく</rt></ruby>. That would mean the <ruby>放送部<rt>ほうそうぶ</rt></ruby>'s members to stay outside together for <ruby>一泊<rt>いっぱく</rt>二日<rt>ふつか</rt></ruby> at an inn or a hotel.
+
+It seemed that everyone was going to <ruby>しばれ<rt></rt>町<rt>ちょう</rt></ruby> like the last time in middle school.
+
+__2018/11/23 - <ruby>土曜日<rt>どようび</rt></ruby> - <ruby>高校二年<rt>こうこうにねん</rt></ruby>__
+
+__2019/01/01__
+
+Bethly, 雪兎, <ruby>雪月<rt>ゆづき</rt></ruby> and <ruby>雛多<rt>ひなた</rt></ruby> went to the <ruby>神社<rt>じんじゃ</rt></ruby>. However, <ruby>雪月<rt>ゆづき</rt></ruby> and <ruby>雛多<rt>ひなた</rt></ruby> left Belthy and 雪兎 alone and went off on their own.
+
+![](https://i.imgur.com/yaI7hnD.png)
+
+Bethly and 雪兎 were about to pull おみくじ. 雪兎 got <ruby>吉<rt>きち</rt></ruby>. Bethly got <ruby>大凶<rt>だいきょう</rt></ruby>. Belthy wanted to pull "one more". I felt that the authors were extorting money from foreigners (Bethly). Last time was at the ゲームセンター. Bethly got <ruby>末吉<rt>すえきち</rt></ruby>. Bethly pulled 5 times.
+
+Bethly went to buy たこ焼き and she got caught on buying a bunch of more foods as all the store owners nearly called her.
+
+> ベスリー - 全部、ください
+
+Most of them were <ruby>芋<rt>いも</rt></ruby> related food. Bethly spotted an こんにゃく store. And Bethly went to buy some. 雪兎 wasn't able to stop Bethly. Then, Bethly had a bunch of food which I was not sure how Bethly was going to eat all of them. Bethly got extra 2 <ruby>串<rt>くし</rt></ruby> from the store owner.
+
+When Bethly and 雪兎 visited まりあ at hololo, Bethly had some more pancakes. 雪兎 also failed to stop Bethly.
+
+> ベスリー - 私、太った？
+
+Bethly finally came to her sense after coming home.
+
+__2019/01/15__
+
+雪兎 and all the heroines went to the place where they would prepare for their <ruby>雪像<rt>せつぞう</rt></ruby> contest. As I just finish 椛 route, it felt so weird when hanging around 椛 during this route. Can we just have a ハーレム route? All the heroines were still so closed to 雪兎 while he had already have a girlfriend.
+
+__2019/01/17__
+
+<ruby>雪月<rt>ゆづき</rt></ruby> went to bath with Bethly the day before and teased 雪兎 about that he wasn't able to see Bethly beautiful body.
+
+<ruby>雛多<rt>ひなた</rt></ruby> scared of height.
+
+The snow got so hard that they can barely do anything. There were some people using chainsaw nearby but 雪兎たち didn't have any chainsaws at their disposal. Bethly got an idea using an axe. I felt that either tools were dangerous. ヒナ seemed to about to cause some kind of accident while using the axe.
+
+__2019/01/19 - 日曜日__
+
+__2019/01/30__
+
+雪まつりの日
+
+There was an incident. I think it was earthquake. Everyone had to stop the <ruby>雪像<rt>せつぞう</rt></ruby> thing. I think 雪兎たち were going to do it even though the event was stopped because of the earthquake. I hope that they were not going to do that. That might sound interesting to some people but I think that would lead to "poor writing" because no sane person would do something as <ruby>雪像<rt>せつぞう</rt></ruby> after the earthquake. I am still not sure if that <ruby>事故<rt>じこ</rt></ruby> was an earthquake or not. They were talking about the snow structure would collapse and the weather was getting warmer so that might just about some big snow structures collapsed and the event organizers had to make sure everything was going to be safe for everyone participating the event.
