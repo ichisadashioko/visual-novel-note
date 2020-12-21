@@ -62,3 +62,9 @@ x よくない
 ```
 
 I think the second option may lead to <ruby>霧子<rt>きりこ</rt></ruby> route.
+
+---
+
+<ruby>栞菜<rt>かんな</rt></ruby>'s route length is comparable with the main heroines' routes. The ending song was played just after a few scenes when their relation started. There is a few scenes after that.
+
+<ruby>奏汰<rt>かなた</rt></ruby> is always the one to chase after the heroines from my experience so far.
