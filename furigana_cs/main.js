@@ -33,7 +33,13 @@ let notes = {
         '雛多<rt>ひなた</rt>',
     ],
     '紅月ゆれる恋あかり': [
-
+        '村垣<rt>むらがき</rt>伊織<rt>いおり</rt>',
+        '朱雀院<rt>すざくいん</rt>紅葉<rt>もみじ</rt>',
+        '天王寺<rt>てんのうじ</rt>ヴィクトリア',
+        '源<rt>みなもと</rt>雫<rt>しずく</rt>',
+        '佐々木<rt>ささき</rt>巫琴<rt>みこと</rt>',
+        '風嶺<rt>かざみね</rt>雪月花<rt>せつげっか</rt>',
+        '九鬼<rt>くき</rt>旭<rt>あさひ</rt>',
     ],
 }
 
@@ -53,6 +59,7 @@ class RubyNoteEntry extends React.Component {
                 'button',
                 {
                     title: that.props.ruby_code,
+                    className: ['copy-button'],
                     onClick: function () {
                         navigator.clipboard.writeText(that.props.ruby_code)
                     },
@@ -63,6 +70,7 @@ class RubyNoteEntry extends React.Component {
                 'button',
                 {
                     title: standalone_ruby_code,
+                    className: ['copy-button'],
                     onClick: function () {
                         navigator.clipboard.writeText(standalone_ruby_code)
                     },

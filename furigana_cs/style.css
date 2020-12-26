@@ -1,9 +1,14 @@
 * {
     margin: 0;
     padding: 0;
-    background-color: #000000;
     color: #ffffff;
+    background-color: rgba(0, 0, 0, 0);
 }
+
+html, body {
+    background-color: #000000;
+}
+
 
 #app {
     font-size: 2em;
@@ -18,7 +23,8 @@
     background-color: #121212;
 }
 
-.entry code {
+.copy-button {
+    font-size: 0.5em;
     border-color: #ffffff;
     border-style: solid;
     border-radius: 5px;
@@ -26,7 +32,7 @@
     padding: 2px;
 }
 
-.entry code:hover {
+.copy-button:hover {
     border-color: #00ff00;
     cursor: pointer;
 }
