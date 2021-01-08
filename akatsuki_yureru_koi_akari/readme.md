@@ -53,3 +53,13 @@ Swords in this world is called オリガミ.
 <ruby>十部<rt>とべ</rt>梨々夢<rt>りりむ</rt></ruby>'s special move is <ruby>八紘我観<rt>world is mine</rt></ruby>.
 
 <ruby>村垣<rt>むらがき</rt>伊織<rt>いおり</rt></ruby> beated <ruby>十部<rt>とべ</rt>梨々夢<rt>りりむ</rt></ruby> without using any special moves. She promised that she will come to class later and ran off.
+
+---
+
+I finished playing this title in 4 days. The game structure is quite unique from all the titles that I have played so far. There is only a single route. We don't have any options for story branching. That only route is "the common route" - "no sexual content" expect for <ruby>雪月花<rt>せつげっか</rt></ruby> doing オナニー. The whole main content is in that route. After we read the event that targets to the specific heroine. The H-scene will be unlocked for that heroine. However, that scene does not follow the story. It is just the "what-if" scene like illusion. After we finished the main story, the extra story for each heroines is unlocked in the "SPECIAL" section. They are short-length (asaproject's sub-heroines route length).
+
+<ruby>紅葉<rt>もみじ</rt></ruby>'s final CG was the only without nudity.
+
+![](https://i.imgur.com/oQt9s5t.png)
+
+After finishing the game, I decided to pick up the 絆きらめく恋いろは title and realized that they re-used all the background assets.
