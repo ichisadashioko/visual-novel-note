@@ -63,3 +63,9 @@ I finished playing this title in 4 days. The game structure is quite unique from
 ![](https://i.imgur.com/oQt9s5t.png)
 
 After finishing the game, I decided to pick up the 絆きらめく恋いろは title and realized that they re-used all the background assets.
+
+---
+
+![](https://i.imgur.com/FKdr3Dz.png)
+
+I wished <ruby>旭<rt>あさひ</rt></ruby> and <ruby>雪月花<rt>せつげっか</rt></ruby> had chance to win the tornament. I felt a little bit unfair as <ruby>紅葉<rt>もみじ</rt></ruby> won. It feels like <ruby>紅葉<rt>もみじ</rt></ruby> was being backed by the <ruby>朱雀院<rt>すざくいん</rt></ruby> from the previous title - especially <ruby>椿<rt>つばき</rt></ruby>.
