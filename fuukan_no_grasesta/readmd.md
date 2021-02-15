@@ -25,3 +25,26 @@ categories in the left
 <!-- WIP -->
 
 ---
+
+## "environment skills" (temporary term)
+
+These skills come from the characters. In the game, there will obstacle which requires a specific skill and its level must be enough to "break" the obstacle. We can level up these skills in the `スキル` tab. In the first run, most skills are only able to reach level 5 even through they are supposed to be higher after calculating the sum of all the characters.
+
+![](https://i.imgur.com/sqkihrE.png)
+
+- <ruby>採取<rt>さいしゅ</rt></ruby>
+- <ruby>暗視<rt>あんし</rt></ruby>
+- <ruby>怪力<rt>かいりき</rt></ruby>
+- <ruby>古代語<rt>こだいご</rt></ruby>
+- <ruby>飛行<rt>ひこう</rt></ruby>
+- <ruby>気流<rt>きりゅう</rt></ruby>
+- <ruby>盗賊<rt>とうぞく</rt></ruby>
+- <ruby>遺物学<rt>いぶつがく</rt></ruby>
+- <ruby>土使い<rt>つちつかい</rt></ruby>
+- <ruby>炎使い<rt>ほのおつかい</rt></ruby>
+- <ruby>雷使い<rt>かみなりつかい</rt></ruby>
+- <ruby>光使い<rt>ひかりつかい</rt></ruby>
+
+## weapon infomation
+
+![](https://i.imgur.com/KDs1VAs.png)
