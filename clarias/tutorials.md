@@ -7,3 +7,13 @@
 - <ruby>どういう<rt></rt>変化<rt>へんか</rt>が<rt></rt>起<rt>お</rt>こる</ruby>
 - <ruby>周囲<rt>しゅうい</rt>の<rt></rt>人<rt>ひと</rt>の<rt></rt>反応<rt>はんのう</rt>が<rt></rt>変化<rt>へんか</rt></ruby>
 - <ruby>好感度<rt>こうかんど</rt>が<rt></rt>上<rt>あ</rt>がる<rt></rt>事<rt>こと</rt>も</ruby>
+
+![10](https://i.imgur.com/Cb7g3Iu.png)
+
+- <ruby>好感度<rt>こうかんど</rt></ruby>
+- <ruby>好感度<rt>こうかんど</rt>とは</ruby>
+- <ruby>ヒロイン<rt>heroine</rt>の<rt></rt>永羽<rt>とわ</rt>に<rt></rt>対<rt>たい</rt>する<rt></rt>好意<rt>こうい</rt></ruby>
+- <ruby>永羽<rt>とわ</rt>の<rt></rt>好感度<rt>こうかんど</rt>は<rt></rt>自分自身<rt>じぶんじしん</rt>に<rt></rt>対<rt>たい</rt>する<rt></rt>好意<rt>こうい</rt></ruby>
+- <ruby>ハート<rt>heart</rt>が<rt></rt>全<rt>すべ</rt>て<rt></rt>埋<rt>う</rt>まると<rt></rt>好感度<rt>こうかんど</rt>レベルアップ<rt>level up</rt></ruby>
+- <ruby>どうやったら<rt></rt>好感度<rt>こうかんど</rt>が<rt></rt>上<rt>あ</rt>がる</ruby>
+- <ruby>場所<rt>ばしょ</rt>選択<rt>せんたく</rt>で<rt></rt>好<rt>この</rt>みの<rt></rt>ヒロイン<rt>heroine</rt>を<rt></rt>選択<rt>せんたく</rt></ruby>
