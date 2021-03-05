@@ -1,3 +1,19 @@
+![00](https://i.imgur.com/igRH8si.png)
+
+![01](https://i.imgur.com/gDdl6oW.png)
+
+![02](https://i.imgur.com/ETdMfh7.png)
+
+![03](https://i.imgur.com/Dd8FPJ1.png)
+
+![04](https://i.imgur.com/kSyO3xI.png)
+
+![05](https://i.imgur.com/MPtUUjU.png)
+
+![06](https://i.imgur.com/Lp5jk0j.png)
+
+![07](https://i.imgur.com/LedvKH4.png)
+
 ![09](https://i.imgur.com/Lpg0AUx.png)
 
 - <ruby>ボリューム<rt>volume</rt>選択肢<rt>せんたくし</rt></ruby>
