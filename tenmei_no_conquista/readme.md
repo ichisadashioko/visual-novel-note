@@ -46,3 +46,51 @@ We can evolve the unit stats by using another "compliant" unit as ingredient.
 - <ruby>フルスクリーン<rt>fullscreen</rt>表示<rt>ひょうじ</rt>を<rt></rt>禁止<rt>きんし</rt>する</ruby>
 - <ruby>タッチ<rt>touch</rt>操作<rt>そうさ</rt>制御<rt>せいぎょ</rt>を<rt></rt>抑制<rt>よくせい</rt>する</ruby>
 - <ruby>ドラッグ<rt>drag</rt>で<rt></rt>ウィンドウ<rt>window</rt>サイズ<rt>size</rt>変更<rt>へんこう</rt></ruby>
+
+# new game screen
+
+![](https://i.imgur.com/b3DFvgB.png)
+
+---
+
+- <ruby>基本<rt>きほん</rt>設定<rt>せってい</rt></ruby>
+
+---
+
+- <ruby>チュートリアル<rt>tutorial</rt></ruby>
+
+when hovering at the on option
+
+- <ruby>ゲーム<rt>game</rt>チュートリアル<rt>tutorial</rt>を<rt></rt>表示<rt>ひょうじ</rt>します</ruby>
+- <ruby>一度<rt>いちど</rt>確認<rt>かくにん</rt>した<rt></rt>項目<rt>こうもく</rt>は<rt></rt>表示<rt>ひょうじ</rt>されません</ruby>
+
+when hovering at the off option
+
+- <ruby>ゲーム<rt>game</rt>チュートリアル<rt>tutorial</rt>を<rt></rt>スキップ<rt>skip</rt>します</ruby>
+
+---
+
+- <ruby>難易度<rt>なんいど</rt></ruby>
+
+when hovering at <ruby>通常<rt>つうじょう</rt></ruby>
+
+- <ruby>標準的<rt>ひょうじゅんてき</rt>な<rt></rt>難易度<rt>なんいど</rt>で<rt></rt>プレイ<rt>play</rt>します</ruby>
+- <ruby>ストーリー<rt>story</rt>に<rt></rt>変更<rt>へんこう</rt>はありません</ruby>
+
+when hovering at <ruby>難<rt>むずか</rt>しい</ruby>
+
+- <ruby>標準<rt>ひょうじゅん</rt>難易度<rt>なんいど</rt>に<rt></rt>比<rt>くら</rt>べて<rt></rt>敵<rt>てき</rt>の<rt></rt>出<rt>しゅつ</rt>現数<rt>げんすう</rt>が<rt></rt>増加<rt>ぞうか</rt>し</ruby>
+- <ruby>出現<rt>しゅつげん</rt>レベル<rt>level</rt>か<rt></rt>高<rt>たか</rt>くなります</ruby>
+
+---
+
+- <ruby>ユニット<rt>unit</rt>成長<rt>せいちょう</rt></ruby>
+
+- <ruby>固定<rt>こてい</rt></ruby>
+- <ruby>レベルアップ<rt>level up</rt>時<rt>とき</rt>の<rt></rt>能力<rt>のうりょく</rt>成長<rt>せいちょう</rt>を<rt></rt>固定値<rt>こていち</rt>にします</ruby>
+- <ruby>お<rt></rt>任<rt>まか</rt>せ<rt></rt>育成<rt>いくせい</rt>で<rt></rt>構<rt>かま</rt>わない<rt></rt>方<rt>かた</rt>にお<rt></rt>勧<rt>すす</rt>めです</ruby>
+- <ruby>成長<rt>せいちょう</rt>期待値<rt>きたいち</rt>はこちらの<rt></rt>方<rt>ほう</rt>が<rt></rt>高<rt>たか</rt>くなります</ruby>
+
+- <ruby>確率<rt>かくりつ</rt></ruby>
+- <ruby>レベルアップ<rt>level up</rt>時<rt>とき</rt>の<rt></rt>能力<rt>のうりょく</rt>成長<rt>せいちょう</rt>を<rt></rt>確率<rt>かくりつ</rt>判定<rt>はんてい</rt>にします</ruby>
+- <ruby>同<rt>おな</rt>じ<rt></rt>クラス<rt>class</rt>でも<rt></rt>成長<rt>せいちょう</rt>に<rt></rt>差<rt>さ</rt>が<rt></rt>出<rt>で</rt>るため、<rt></rt>ユニット<rt>unit</rt>育成<rt>いくせい</rt>を<rt></rt>楽<rt>との</rt>しみたい<rt></rt>方<rt>かた</rt>にお<rt></rt>勧<rt>すす</rt>めです</ruby>
