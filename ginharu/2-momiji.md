@@ -249,7 +249,7 @@ Her name was <ruby>朱音<rt>あかね</rt></ruby>. 椛 called her as <ruby>朱�
 
 ![](https://i.imgur.com/lIfvD8p.png)
 
-<ruby>榊<rt>朱音<rt>あかね</rt></ruby> was the <ruby>演劇部<rt>えんげきぶ</rt>の<rt></rt>部長<rt>ぶちょう</rt></ruby>. She did not have a boyfriend.
+<ruby>榊<rt>さかき</rt>朱音<rt>あかね</rt></ruby> was the <ruby>演劇部<rt>えんげきぶ</rt>の<rt></rt>部長<rt>ぶちょう</rt></ruby>. She did not have a boyfriend.
 
 雪兎 and 椛 were flirting with each others all the time.
 
@@ -461,7 +461,7 @@ __2026/09/20__
 
 __2026/10/16 - 金曜日__
 
-朱音 represented <ruby>劇団員<rt>げきだんいん</rt></ruby> to give 椛 birthday present which contained a bunch of <ruby>エロ<rt></rt下着<rt>したぎ</rt>や<rt></rt>衣装<rt>いしょう</rt></ruby>. Everyone left 椛 and 雪兎 alone before 椛 opened the present. 椛 was so embarrassed when she opened the present.
+朱音 represented <ruby>劇団員<rt>げきだんいん</rt></ruby> to give 椛 birthday present which contained a bunch of <ruby>エロ<rt></rt>下着<rt>したぎ</rt>や<rt></rt>衣装<rt>いしょう</rt></ruby>. Everyone left 椛 and 雪兎 alone before 椛 opened the present. 椛 was so embarrassed when she opened the present.
 
 > 椛 - えっと···せっかくだから、これ今日、使う？
 
