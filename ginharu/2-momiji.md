@@ -271,7 +271,7 @@ __05/03 - <ruby>金曜日<rt>きんようび</rt></ruby> - <ruby>高校二年<rt
 
 __05/07 - <ruby>高校二年<rt>こうこうにねん</rt></ruby>__
 
-椛 and 雪兎 had a lot of sex during the last 4 days. 椛 and 雪兎 did it from morning till evening in one day. <ruby>雪月<rt>ゆづき</rt></ruby> seemed to hear 椛's and 雪兎's voice while they were having sex as .
+椛 and 雪兎 had a lot of sex during the last 4 days. 椛 and 雪兎 did it from morning till evening in one day. <ruby>雪月<rt>ゆづき</rt></ruby> seemed to hear 椛's and 雪兎's voice while they were having sex as 椛 was pretty loud.
 
 __05/15 - <ruby>高校三年<rt>こうこうさんねん</rt></ruby>__
 
@@ -345,7 +345,7 @@ __2023/10/21__
 
 That day was 椛の誕生日.
 
-<ruby>榊<rt>さかき</rt>朱音<rt>あかね</rt></ruby> invited 椛 to join <ruby>朱音<rt>あかね</rt>の<rt></rt>舞台<rt>ぶたい</rt></ruby>. 雪兎 told 椛 to come back to <ruby>幌路<rt>ほろろ</rt></ruby> together to help 椛 achieve her dream. 雪兎 and 椛 were going to graduate college around six months later. 椛 was really happy when 雪兎 told her about coming back to <ruby>幌路<rt>ほろろ</rt></ruby>. 椛 then rushed 雪兎 to come back to their home together in order to give her the best present for the day.
+<ruby>榊<rt>さかき</rt>朱音<rt>あかね</rt></ruby> invited 椛 to join <ruby>朱音<rt>あかね</rt>の<rt></rt>舞台<rt>ぶたい</rt></ruby>. 雪兎 told 椛 to come back to <ruby>幌路<rt>ほろろ</rt></ruby> together to help 椛 achieve her dream. 雪兎 and 椛 were going to graduate college around six months later. 椛 was really happy when 雪兎 told her about coming back to <ruby>幌路<rt>ほろろ</rt></ruby>. 椛 then rushed 雪兎 to come back to their home together in order to give her "the best present" of the day.
 
 __2024/03/27__
 
@@ -359,7 +359,7 @@ __2024/03/29__
 
 椛 seemed to love alcohol.
 
-After 朱音 left, drunk 椛 changed into <ruby>看護師<rt>かんごし</rt></ruby> costume and had sex with 雪兎.
+After 朱音 left, drunken 椛 changed into <ruby>看護師<rt>かんごし</rt></ruby> costume and had sex with 雪兎.
 
 __2024/06/03__
 
