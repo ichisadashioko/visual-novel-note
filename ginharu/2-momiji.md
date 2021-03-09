@@ -437,7 +437,7 @@ __2025/03/23 - 月曜日__
 
 # after a year (?)
 
-It should be "a year latter". toneworks, please hire a native English speaker.
+It should be "a year later". toneworks, please hire a native English speaker.
 
 __2026/02/06__
 
