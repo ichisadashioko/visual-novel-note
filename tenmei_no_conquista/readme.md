@@ -1,12 +1,12 @@
 # [<ruby>天冥<rt>てんめい</rt>のコンキスタ</ruby>](https://vndb.org/v27691)
 
-# <ruby>輪廻<rt>りんね</rt>の呪</ruby>
+# <ruby>輪廻<rt>りんかい</rt>の呪</ruby>
 
 Unlocked after completing chapter 20
 
-It has three main features (<ruby>輪廻<rt>りんね</rt></ruby>, 輪始, and 廻清).
+It has three main features (<ruby>輪廻<rt>れんかい</rt></ruby>, 輪始, and 廻清).
 
-__<ruby>輪廻<rt>りんね</rt></ruby>__
+__<ruby>輪廻<rt>りんかい</rt></ruby>__
 
 We can evolve the unit stats by using another "compliant" unit as ingredient.
 
@@ -94,3 +94,10 @@ when hovering at <ruby>難<rt>むずか</rt>しい</ruby>
 - <ruby>確率<rt>かくりつ</rt></ruby>
 - <ruby>レベルアップ<rt>level up</rt>時<rt>とき</rt>の<rt></rt>能力<rt>のうりょく</rt>成長<rt>せいちょう</rt>を<rt></rt>確率<rt>かくりつ</rt>判定<rt>はんてい</rt>にします</ruby>
 - <ruby>同<rt>おな</rt>じ<rt></rt>クラス<rt>class</rt>でも<rt></rt>成長<rt>せいちょう</rt>に<rt></rt>差<rt>さ</rt>が<rt></rt>出<rt>で</rt>るため、<rt></rt>ユニット<rt>unit</rt>育成<rt>いくせい</rt>を<rt></rt>楽<rt>との</rt>しみたい<rt></rt>方<rt>かた</rt>にお<rt></rt>勧<rt>すす</rt>めです</ruby>
+
+---
+
+- <ruby>周回<rt>しゅうかい</rt>プレイ<rt>play</rt>設定<rt>せってい</rt></ruby>
+
+- <ruby>戦闘<rt>せんとう</rt>スキップ<rt>skip</rt></ruby>
+- <ruby>敵<rt>てき</rt>ユニット<rt>unit</rt>LV</rt></rt>上限<rt>じょうげん</rt>解放<rt>かいほう</rt></ruby>

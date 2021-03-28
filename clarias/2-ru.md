@@ -198,7 +198,7 @@ Save ルー
 - [ ] loudest (10-8) (永羽 +2 hearts)
 - [x] medium (7-6) (永羽 +5 hearts, ルー +2 hearts)
 - [ ] low (5-3)
-- [ ] lowest (2-1)
+- [ ] lowest (2-1) (Shelly +2)
 
 ```
 (2) 永羽
