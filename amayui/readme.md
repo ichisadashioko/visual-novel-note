@@ -19,3 +19,5 @@
   - 2017-12-15
   - append disk 5
 ```
+
+- `青銅の導鍵` - name of a skill required to open a kind of door
